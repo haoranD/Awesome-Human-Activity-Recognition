@@ -14,6 +14,7 @@ A curated list of awesome Human Activity Recognition(Ubiquitous Computing) resou
 * [Misc](#misc)
 * [Datasets](#Datasets)
 * [Papers](#Papers)
+* [Codes](#Codes)
 
 ## Background
 

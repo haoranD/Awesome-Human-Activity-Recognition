@@ -38,6 +38,7 @@ TBD shortly
 * CMU [HomePage](https://www.hcii.cmu.edu/)
 * Chinese Academy of Sciences [HomePage](http://www.cas.cn/)
 * CBA Lab @GeorgiaTech: Thomas Ploetz [HomePage](http://www.cba.gatech.edu)
+* MLSys Lab @University of Cambridge: Nicholas D. Lane [HomePage](http://niclane.org/lab/)
 * Open Lab @NCL: Yu Guan [HomePage](https://openlab.ncl.ac.uk)
 * TBD shortly
 

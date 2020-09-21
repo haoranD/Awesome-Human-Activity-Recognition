@@ -28,6 +28,10 @@ TBD shortly
 
 ### People
 
+* MIT Media Lab [HomePage](https://www.media.mit.edu)
+* CBA Lab @GeorgiaTech: Thomas Ploetz [HomePage](http://www.cba.gatech.edu)
+* Open Lab @NCL: Yu Guan [HomePage](https://openlab.ncl.ac.uk)
+
 ### Blogs
 
 ## Datasets

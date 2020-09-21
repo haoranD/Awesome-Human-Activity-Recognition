@@ -28,9 +28,12 @@ TBD shortly
 
 ### News
 
-### People
+### Institutions
 
 * MIT Media Lab [HomePage](https://www.media.mit.edu)
+* THU [HomePage](http://pi.cs.tsinghua.edu.cn/)
+* CMU [HomePage](https://www.hcii.cmu.edu/)
+* Chinese Academy of Sciences [HomePage](http://www.cas.cn/)
 * CBA Lab @GeorgiaTech: Thomas Ploetz [HomePage](http://www.cba.gatech.edu)
 * Open Lab @NCL: Yu Guan [HomePage](https://openlab.ncl.ac.uk)
 * TBD shortly

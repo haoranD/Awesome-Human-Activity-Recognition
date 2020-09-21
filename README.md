@@ -9,7 +9,6 @@
 A curated list of awesome Human Activity Recognition(Ubiquitous Computing) resources.
 
 ## Contents
-* [Background](#Background)
 * [Misc](#misc)
 * [Datasets](#Datasets)
 * [Papers](#Papers)
@@ -25,10 +24,6 @@ Many thanks to the useful publications and repos: [Jingdong Wang](https://github
 </p>
 
 Please feel free to contribute this list by contacting [me](https://github.com/haoranD) or submit the issues or PRs.
-
-## Background
-
-TBD shortly
 
 ## Misc
 

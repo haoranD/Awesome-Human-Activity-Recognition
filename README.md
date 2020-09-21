@@ -79,3 +79,13 @@ TBD shortly
 ### 2015
 
 ### 2014
+
+### 2013
+
+### 2012
+
+### 2011
+
+### 2010
+
+- <a name="UWATDIPAE"></a> Using Wearable Activity Type Detection to Improve Physical Activity Energy Expenditure Estimation (**UBICOMP**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6122605/)]

@@ -69,6 +69,34 @@ TBD shortly
 
 ### 2020
 
+- <a name="CDTL"></a> Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning (**UBICOMP**) [[paper](http://jd92.wang/assets/files/a20_ubicomp20.pdf)]
+
+- <a name="PCCOAR"></a> Personalized Context-aware Collaborative Online Activity Prediction (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3369829)]
+
+- <a name="UDA4HAR"></a> **[UDA4HAR]** A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3380985)]
+
+- <a name="METIER"></a> **[METIER]** METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3381012)]
+
+- <a name="DeepMV"></a> **[DeepMV]** DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3380980)]
+
+- <a name="CARIN"></a> **[CARIN]** CARIN: Wireless CSI-based Driver Activity Recognition under the Interference of Passengers (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3380992)]
+
+- <a name="AMNAR"></a> Adversarial Multi-view Networks for Activity Recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3397323)]
+
+- <a name="WSMT4HAR"></a> Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3397330)]
+
+- <a name="DAAEAD"></a> Detection of Artifacts in Ambulatory Electrodermal Activity Data (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3397316)]
+
+- <a name="IMUTube"></a> **[IMUTube]** IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition (**UBICOMP**) [[paper](https://arxiv.org/abs/2006.05675)]
+
+- <a name="TSMSDM"></a> Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs
+ (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3411836)]
+ 
+ - <a name="MSS"></a> Masked reconstruction based self-supervision for human activity recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3410531.3414306)]
+ 
+ - <a name="TSMSDM"></a> Digging deeper: towards a better understanding of transfer learning for human activity recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs  (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3410531.3414311)]
+
+
 ### 2019
 
 ### 2018

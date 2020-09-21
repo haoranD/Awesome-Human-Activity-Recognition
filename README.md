@@ -10,6 +10,8 @@ A curated list of awesome Human Activity Recognition(Ubiquitous Computing) resou
 
 ## Acknowledgment
 
+Many thanks to the useful publications and repos: [Jingdong Wang](https://github.com/jindongwang)
+
 ## Contents
 * If you have any problems, suggestions or improvements, please feel free to submit the issues or PRs.
 * [Background](#Background)
@@ -39,6 +41,8 @@ TBD shortly
 * TBD shortly
 
 ### Blogs
+
+* [DL4HAR](https://github.com/jindongwang/Deep-learning-activity-recognition)
 
 ## Datasets
 

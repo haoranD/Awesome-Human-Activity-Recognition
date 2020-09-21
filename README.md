@@ -24,7 +24,7 @@ Many thanks to the useful publications and repos: [Jingdong Wang](https://github
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please feel free to contribute this list by contacting [me](https://jason718.github.io/) or submit the issues or PRs.
+Please feel free to contribute this list by contacting [me](https://github.com/haoranD) or submit the issues or PRs.
 
 ## Background
 

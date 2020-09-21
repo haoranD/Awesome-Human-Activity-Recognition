@@ -85,6 +85,16 @@ TBD shortly
 
 ### 2012
 
+- <a name="UPRSPA"></a> Understanding Physiological Responses to Stressors during Physical Activity  (**UBICOMP**) [[paper](https://www.researchgate.net/profile/Julian_Ramos_Rojas/publication/236222556_Understanding_physiological_responses_to_stressors_during_physical_activity/links/004635300ed7b576f3000000.pdf)]
+
+- <a name="ASOA"></a> A Spark Of Activity: Exploring Information Art As Visualization For Physical Activity  (**UBICOMP**) [[paper](https://www.researchgate.net/publication/262176140_A_spark_of_activity_Exploring_informative_art_as_visualization_for_physical_activity)]
+
+- <a name="FGKAR"></a> Fine-Grained Kitchen Activity Recognition using RGB-D (**UBICOMP**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.259.2140&rep=rep1&type=pdf)]
+
+- <a name="BodyScope"></a> **[BodyScope]** BodyScope: A Wearable Acoustic Sensor for Activity Recognition (**UBICOMP**) [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/09/Ubicomp2012.pdf)]
+
+- <a name="AIF4HAR"></a> An Integrated Framework for Human Activity Classification (**UBICOMP**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.2178&rep=rep1&type=pdf)]
+
 ### 2011
 
 - <a name="TPUCS"></a> The Place for Ubiquitous Computing in Schools: Lessons Learned from a School-Based Intervention for Youth Physical Activity  (**UBICOMP**) [[paper](https://www.andrewmiller.net/pdf/2011_Poole.pdf)]

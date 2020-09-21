@@ -8,17 +8,23 @@
 
 A curated list of awesome Human Activity Recognition(Ubiquitous Computing) resources.
 
-## Acknowledgment
-
-Many thanks to the useful publications and repos: [Jingdong Wang](https://github.com/jindongwang), [Awesome-Deep-Vision](https://github.com/kjw0612/awesome-deep-vision), [Awesome-Deep-Learning-Papers](https://github.com/terryum/awesome-deep-learning-papers), [Awesome-Self-Supervised-Learning](https://github.com/jason718/awesome-self-supervised-learning), [Awesome-Semi-Supervised-Learning](https://github.com/yassouali/awesome-semi-supervised-learning) and [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting#datasets).
-
 ## Contents
-* If you have any problems, suggestions or improvements, please feel free to submit the issues or PRs.
 * [Background](#Background)
 * [Misc](#misc)
 * [Datasets](#Datasets)
 * [Papers](#Papers)
 * [Codes](#Codes)
+
+## Acknowledgment
+
+Many thanks to the useful publications and repos: [Jingdong Wang](https://github.com/jindongwang), [Awesome-Deep-Vision](https://github.com/kjw0612/awesome-deep-vision), [Awesome-Deep-Learning-Papers](https://github.com/terryum/awesome-deep-learning-papers), [Awesome-Self-Supervised-Learning](https://github.com/jason718/awesome-self-supervised-learning), [Awesome-Semi-Supervised-Learning](https://github.com/yassouali/awesome-semi-supervised-learning) and [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting#datasets).
+
+## Contributing
+<p align="center">
+  <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
+</p>
+
+Please feel free to contribute this list by contacting [me](https://jason718.github.io/) or submit the issues or PRs.
 
 ## Background
 

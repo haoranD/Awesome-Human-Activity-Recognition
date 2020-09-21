@@ -86,6 +86,10 @@ TBD shortly
 
 ### 2011
 
+- <a name="TPUCS"></a> The Place for Ubiquitous Computing in Schools: Lessons Learned from a School-Based Intervention for Youth Physical Activity  (**UBICOMP**) [[paper](https://www.andrewmiller.net/pdf/2011_Poole.pdf)]
+
+- <a name="CSN"></a> **[CSN]** Enabling Large-scale Human Activity Inference on Smartphones using Community Similarity Networks  (**UBICOMP**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.3380&rep=rep1&type=pdf)]
+
 ### 2010
 
 - <a name="UWATDIPAE"></a> Using Wearable Activity Type Detection to Improve Physical Activity Energy Expenditure Estimation (**UBICOMP**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6122605/)]

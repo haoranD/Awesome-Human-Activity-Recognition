@@ -48,13 +48,9 @@ TBD shortly
 
 ## Datasets
 
-TBD shortly
-
 Please refer to [this page](Data/Datasets.md).
 
 ## Codes
-
-TBD shortly
 
 Please refer to [this page](Codes/Codes.md).
 

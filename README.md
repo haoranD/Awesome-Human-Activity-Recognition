@@ -99,6 +99,39 @@ TBD shortly
 
 ### 2019
 
+- <a name="EESGPSCWAAS"></a> Exploring the Efficacy of Sparse, General-Purpose Sensor Constellations for Wide-Area Activity Sensing (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3328926)]
+
+- <a name="MRFID"></a> Modeling RFID Signal Reflection for Contact-free Activity Recognition (**UBICOMP**) [[paper](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/RFIDActivityRecognition_Ubicomp19.pdf)]
+
+- <a name="TDSHAR"></a> Towards a Diffraction-based Sensing Approach on Human Activity Recognition (**UBICOMP**) [[paper](https://www.researchgate.net/publication/332164511_Towards_a_Diffraction-based_Sensing_Approach_on_Human_Activity_Recognition)]
+
+- <a name="InDexMo"></a> **[InDexMo]** InDexMo: exploring finger-worn RFID motion tracking for activity recognition on tagged objects (**UBICOMP**) [[paper](https://www.researchgate.net/publication/335649908_InDexMo_exploring_finger-worn_RFID_motion_tracking_for_activity_recognition_on_tagged_objects)]
+
+- <a name="BR"></a> Beyond Respiration: Contactless Sleep Sound-Activity Recognition Using RF Signals (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3351254)]
+
+- <a name="ORFHAR"></a> On the Role of Features in Human Activity Recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347727)]
+
+- <a name="HAUHAR"></a> Handling Annotation Uncertainty in Human Activity Recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3341163.3347744)]
+
+- <a name="ALAHAR"></a> Leveraging Active Learning and Conditional Mutual Information to Minimize Data Annotation in Human Activity Recognition (**UBICOMP**) [[paper](http://users.ece.utexas.edu/~ethomaz/papers/j6.pdf)]
+
+- <a name="MTSSHAR"></a> Multi-task Self-Supervised Learning for Human Activity Detection (**UBICOMP**) [[paper](https://arxiv.org/abs/1907.11879)]
+
+- <a name="UFAAR"></a> Unsupervised Factory Activity Recognition with Wearable Sensors Using Process Instruction Information (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3328931)]
+
+- <a name="Vision2Sensor"></a> **[Vision2Sensor]** Vision2Sensor: Knowledge Transfer Across Sensing Modalities for Human Activity Recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347727)]
+
+- <a name="HDNW"></a> How Does a Nation Walk? Interpreting Large-Scale Step Count Activity with Weekly Streak Patterns (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3328928)]
+
+- <a name="GAZEDAR"></a> Combining Lowand Mid-Level Gaze Features for Desktop Activity Recognition (**UBICOMP**) [[paper](https://www.researchgate.net/publication/329955224_Combining_Low_and_Mid-Level_Gaze_Features_for_Desktop_Activity_Recognition)]
+
+- <a name="IARNCR"></a> Integrating Activity Recognition and Nursing Care Records: The System, Deployment, and a Verification Study
+ (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3351244)]
+
+- <a name="6WATSW"></a> The Positive Impact of Push vs Pull Progress Feedback: A 6-week Activity Tracking Study in the Wild (**UBICOMP**) [[paper](http://octaviazahrt.com/wp-content/uploads/2020/07/2019-The_Positive_Impact_of_Push_vs_Pull_Progress_Feedback.pdf)]
+
+- <a name="MAMF"></a> Towards a Wearable Low-Cost Ultrasound Device for Classification of Muscle Activity and Muscle Fatigue (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347749)]
+
 ### 2018
 
 ### 2017

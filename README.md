@@ -150,17 +150,17 @@ TBD shortly
 
 - <a name="TFAI"></a> TagFree Activity Identification with RFIDs (**UBICOMP**) [[paper](http://www.ece.ubc.ca/~xiaoyif/Papers/tagfree-ubicomp.pdf)]
 
-- <a name="SpiderWalk"></a> **SpiderWalk** SpiderWalk: Circumstance-aware Transportation Activity Detection Using a Novel Contact Vibration Sensor (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/3191774)]
+- <a name="SpiderWalk"></a> **[SpiderWalk]** SpiderWalk: Circumstance-aware Transportation Activity Detection Using a Novel Contact Vibration Sensor (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/3191774)]
 
 - <a name="FHARWDC"></a> Feasibility of human activity recognition using wearable depth cameras (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3267242.3267276)]
 
 - <a name="OAHAR"></a> On Attention Models for Human Activity Recognition (**UBICOMP**) [[paper](https://arxiv.org/abs/1805.07648)]
 
-- <a name="DeActive"></a> **DeActive** DeActive: Scaling Activity Recognition with Active Deep Learning (**UBICOMP**) [[paper](https://mdsoar.org/bitstream/handle/11603/11042/IMWUT_DeActive.pdf?sequence=1&isAllowed=y)]
+- <a name="DeActive"></a> **[DeActive]** DeActive: Scaling Activity Recognition with Active Deep Learning (**UBICOMP**) [[paper](https://mdsoar.org/bitstream/handle/11603/11042/IMWUT_DeActive.pdf?sequence=1&isAllowed=y)]
 
 - <a name="MDLACR"></a> Multimodal Deep Learning for Activity and Context Recognition (**UBICOMP**) [[paper](https://www.fahim-kawsar.net/papers/Radu.UbiComp2018-Camera.pdf)]
 
-- <a name="AROMA"></a> **AROMA** AROMA: A Deep Multi-Task Learning Based Simple and Complex Human Activity Recognition Method Using Wearable Sensors (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/3214277?download=true)]
+- <a name="AROMA"></a> **[AROMA]** AROMA: A Deep Multi-Task Learning Based Simple and Complex Human Activity Recognition Method Using Wearable Sensors (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/3214277?download=true)]
 
 - <a name="MBPCEAR"></a> Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation (**UBICOMP**) [[paper](http://users.ece.utexas.edu/~ethomaz/papers/j2.pdf)]
 

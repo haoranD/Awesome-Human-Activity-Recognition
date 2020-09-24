@@ -31,8 +31,6 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ## Misc
 
-TBD shortly
-
 ### News
 
 ### Institutions
@@ -59,8 +57,6 @@ Please refer to [this page](Data/Datasets.md).
 Please refer to [this page](Codes/Codes.md).
 
 ## Papers
-
-TBD shortly
 
 ### Surveys & Overview
 

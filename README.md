@@ -233,6 +233,44 @@ TBD shortly
 
 ### 2013
 
+- <a name="PARAS"></a> Predicting audience responses to movie content from electro-dermal activity signals  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493508)]
+
+- <a name="FGSSPA"></a> Fine-Grained Sharing of Sensed Physical Activity: A Value Sensitive Approach  (**UBICOMP**) [[paper](https://homes.cs.washington.edu/~jfogarty/publications/ubicomp2013.pdf)]
+
+- <a name="SETOAR"></a> Sensor-embedded teeth for oral activity recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494352)]
+
+- <a name="DOGAR"></a> Dog's life: wearable activity recognition for dogs (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493519)]
+
+- <a name="ZSLHAR"></a> Towards zero-shot learning for human activity recognition using semantic attribute sequence model (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493511)]
+
+- <a name="RIIIARAT"></a> Reducing user intervention in incremental activity recognition for assistive technologies (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494350)]
+
+- <a name="PMPAR"></a> Personalized mobile physical activity recognition  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494349)]
+
+- <a name="AHUSMGAR"></a> A Hybrid Unsupervised/Supervised Model for Group Activity Recognition (**UBICOMP**) [[paper](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/paper/maekawa-ISWC2013.pdf)]
+
+- <a name="CMAPAR"></a> Confidence-based Multiclass AdaBoost for Physical Activity Monitoring (**UBICOMP**) [[paper](https://www.researchgate.net/publication/257820467_Confidence-based_Multiclass_AdaBoost_for_Physical_Activity_Monitoring)]
+
+- <a name="AEOCAR"></a> An exploration with online complex activity recognition using cellphone accelerometer  (**UBICOMP**) [[paper](https://www.researchgate.net/publication/262159302_An_exploration_with_online_complex_activity_recognition_using_cellphone_accelerometer)]
+
+- <a name="AMSPRIS"></a> Activity monitoring in daily life as an outcome measure for surgical pain relief intervention using smartphones  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494336)]
+
+- <a name="ARNMTCN"></a> Activity recognition and nutrition monitoring in every day situations with a textile capacitive neckband  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2494091.2494143)]
+
+- <a name="UniPad"></a> [**UniPad**] UniPad: Orchestrating collaborative activities through shared tablets and an integrated wall display  (**UBICOMP**) [[paper](https://uclic.ucl.ac.uk/publications/912121)]
+
+- <a name="HARUHS"></a> Human Activity Recognition Using Heterogeneous Sensors  (**UBICOMP**) [[paper](http://ubicomp.org/ubicomp2013/dc/shoaib-jr-ds-crc.pdf)]
+
+- <a name="POFMHAR"></a> A probabilistic ontological framework for the recognition of multilevel human activities  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493501)]
+
+- <a name="SMSADL"></a> Smartphone-based monitoring system for activities of daily living for elderly people and their relatives etc.  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2494091.2494120)]
+
+- <a name="USMLDA"></a> Ubiquitous support for midwives to leverage daily activities  (**UBICOMP**) [[paper](https://www.researchgate.net/publication/262366613_Ubiquitous_support_for_midwives_to_leverage_daily_activities)]
+
+- <a name="CEACVRFPA"></a> Combining Embedded Accelerometers with Computer Vision for Recognizing Food Preparation Activities  (**UBICOMP**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.8684&rep=rep1&type=pdf)]
+
+
+
 ### 2012
 
 - <a name="UPRSPA"></a> Understanding Physiological Responses to Stressors during Physical Activity  (**UBICOMP**) [[paper](https://www.researchgate.net/profile/Julian_Ramos_Rojas/publication/236222556_Understanding_physiological_responses_to_stressors_during_physical_activity/links/004635300ed7b576f3000000.pdf)]

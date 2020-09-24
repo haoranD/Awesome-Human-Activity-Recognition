@@ -189,6 +189,22 @@ TBD shortly
 
 ### 2016
 
+- <a name="URIA"></a> Unsupervised recognition of interleaved activities of daily living through ontological and probabilistic reasoning (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971691)]
+
+- <a name="SEMIHAR"></a> Learning from less for better: semi-supervised activity recognition via shared structure discovery (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971701)]
+
+- <a name="AWSARF"></a> A weakly supervised activity recognition framework for real-time synthetic biology laboratory assistance (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971716)]
+
+- <a name="HRDWIFI"></a> Human respiration detection with commodity wifi devices: do user location and body orientation matter? (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971744)]
+
+- <a name="EDSGFPAT"></a> Exploring the Design Space of Glanceable Feedback for Physical Activity Trackers (**UBICOMP**) [[paper](https://www.researchgate.net/publication/305386412_Exploring_the_Design_Space_of_Glanceable_Feedback_for_Physical_Activity_Trackers)]
+
+- <a name="TPFAR"></a> Toward practical factory activity recognition: unsupervised understanding of repetitive assembly work in a factory (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971721)]
+
+- <a name="WSMMHAR"></a> Wearable sensor based multimodal human activity recognition exploiting the diversity of classifier ensemble (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971708)]
+
+- <a name="EMSPA"></a> Experiences measuring sleep and physical activity patterns across a large college cohort with fitbits (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971763.2971767)]
+
 ### 2015
 
 ### 2014

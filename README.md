@@ -225,6 +225,12 @@ TBD shortly
 
 ### 2014
 
+- <a name="MHAULCUT"></a> MONITORING HOUSEHOLD ACTIVITIES AND USER LOCATION WITH A CHEAP, UNOBTRUSIVE THERMAL SENSOR ARRAY (**UBICOMP**) [[paper](https://www.dfki.de/en/web/research/projects-and-publications/publications-overview/publication/7531/)]
+
+- <a name="CPSN"></a> Connecting personal-scale sensing and networked community behavior to infer human activities  (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/2632048.2636094)]
+
+- <a name="UEAREECSI"></a> Using electrodermal activity to recognize ease of engagement in children during social interactions (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2632048.2636065)]
+
 ### 2013
 
 ### 2012

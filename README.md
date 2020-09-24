@@ -207,6 +207,22 @@ TBD shortly
 
 ### 2015
 
+- <a name="MARWD"></a> Mobile Activity Recognition for a Whole Day: Recognizing Real Nursing Activities with Big Dataset (**UBICOMP**) [[paper](https://core.ac.uk/download/pdf/147426671.pdf)]
+
+- <a name="BYAR"></a> Beyond activity recognition: skill assessment from accelerometer data (**UBICOMP**) [[paper](https://research.monash.edu/en/publications/beyond-activity-recognition-skill-assessment-from-accelerometer-d)]
+
+- <a name="100CT"></a> I did not smoke 100 cigarettes today!: avoiding false positives in real-world activity recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2804256)]
+
+- <a name="LST"></a> Let's (not) stick together: pairwise similarity biases cross-validation in activity recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2807551)]
+
+- <a name="IAR"></a> Improved activity recognition by using enriched acceleration data (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2805844)]
+
+- <a name="ATB"></a> Activity tracking: Barriers, workarounds and customisation (**UBICOMP**) [[paper](https://discovery.ucl.ac.uk/id/eprint/1475593/)]
+
+- <a name="ASCACA"></a> A field study comparing approaches to collecting annotated activity data in real-world settings (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2807524)]
+
+- <a name="PRAR"></a> Personalization revisited: a reflective approach helps people better personalize health services and motivates them to increase physical activity (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2807552)]
+
 ### 2014
 
 ### 2013

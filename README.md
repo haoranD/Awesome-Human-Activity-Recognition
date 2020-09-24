@@ -166,6 +166,27 @@ TBD shortly
 
 ### 2017
 
+- <a name="UOADTBA"></a> Unsupervised online activity discovery using temporal behaviour assumption (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3123021.3123044)]
+
+- <a name="CovertBand"></a> [**CovertBand**] CovertBand: Activity Information Leakage using Music (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3131897)]
+
+- <a name="WISS"></a> Watching inside the Screen: Digital Activity Monitoring for Task Recognition and Proactive Information Retrieval (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3130974)]
+
+- <a name="DEABWT"></a> Detecting Emerging Activity-Based Working Traits through Wearable Technology (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3130951)]
+
+- <a name="HLTPAD"></a> Harnessing Long Term Physical Activity Data: How Long-term Trackers Use Data and How an Adherence-based Interface Supports New Insights
+ (**UBICOMP**) [[paper](https://www.researchgate.net/publication/318069213_Harnessing_Long_Term_Physical_Activity_Data-How_Long-term_Trackers_Use_Data_and_How_an_Adherence-based_Interface_Supports_New_Insights)]
+
+- <a name="ARQABSCHR"></a> Activity Recognition for Quality Assessment of Batting Shots in Cricket using a Hierarchical Representation (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3130927)]
+
+- <a name="ACG"></a> Activity Recognition at Google: Building and Deploying Machine Learning for a Billion Android Devices (**UBICOMP**) [[paper](https://research.google/pubs/pub46783/)]
+
+- <a name="ELSTM"></a> Ensembles of Deep LSTM Learners for Activity Recognition using Wearables (**UBICOMP**) [[paper](https://arxiv.org/pdf/1703.09370.pdf)]
+
+- <a name="LPARS"></a> Label Propagation: An Unsupervised Similarity Based Method for Integrating New Sensors in Activity Recognition Systems (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/3130959)]
+
+- <a name="CNNHAR"></a> CNN-based sensor fusion techniques for multimodal human activity recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/3123021.3123046)]
+
 ### 2016
 
 ### 2015

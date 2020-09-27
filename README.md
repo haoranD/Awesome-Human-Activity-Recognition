@@ -95,7 +95,13 @@ Please refer to [this page](Codes/Codes.md).
 
 ### 2019
 
-- <a name="EESGPSCWAAS"></a> Exploring the Efficacy of Sparse, General-Purpose Sensor Constellations for Wide-Area Activity Sensing (**UBICOMP**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3328926)]
+- <a name="NDENNSBAR"></a> A Novel Distribution-Embedded Neural Network for Sensor-Based Activity Recognition (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2019/0779.pdf)]
+
+- <a name="AttnSense"></a> **[AttnSense]** AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2019/0431.pdf)]
+
+- <a name="MAAR"></a> Multi-agent Attentional Activity Recognition (**IJCAI**) [[paper](https://arxiv.org/pdf/1905.08948.pdf)]
+
+- <a name="SparseSense"></a> **[SparseSense]** SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks (**IJCAI**) [[paper](https://arxiv.org/pdf/1906.02399.pdf)]
 
 - <a name="MRFID"></a> Modeling RFID Signal Reflection for Contact-free Activity Recognition (**UBICOMP**) [[paper](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/RFIDActivityRecognition_Ubicomp19.pdf)]
 

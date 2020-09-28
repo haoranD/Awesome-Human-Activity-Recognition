@@ -190,104 +190,104 @@ Please refer to [this page](Codes/Codes.md).
 
 ### 2016
 
-- <a name="URIA"></a> Unsupervised recognition of interleaved activities of daily living through ontological and probabilistic reasoning (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971691)]
+- <a name="URIA"></a> Unsupervised recognition of interleaved activities of daily living through ontological and probabilistic reasoning (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971691)]
 
-- <a name="SEMIHAR"></a> Learning from less for better: semi-supervised activity recognition via shared structure discovery (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971701)]
+- <a name="SEMIHAR"></a> Learning from less for better: semi-supervised activity recognition via shared structure discovery (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971701)]
 
-- <a name="AWSARF"></a> A weakly supervised activity recognition framework for real-time synthetic biology laboratory assistance (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971716)]
+- <a name="AWSARF"></a> A weakly supervised activity recognition framework for real-time synthetic biology laboratory assistance (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971716)]
 
-- <a name="EDSGFPAT"></a> Exploring the Design Space of Glanceable Feedback for Physical Activity Trackers (**UBICOMP**) [[paper](https://www.researchgate.net/publication/305386412_Exploring_the_Design_Space_of_Glanceable_Feedback_for_Physical_Activity_Trackers)]
+- <a name="EDSGFPAT"></a> Exploring the Design Space of Glanceable Feedback for Physical Activity Trackers (**ubicomp**) [[paper](https://www.researchgate.net/publication/305386412_Exploring_the_Design_Space_of_Glanceable_Feedback_for_Physical_Activity_Trackers)]
 
-- <a name="TPFAR"></a> Toward practical factory activity recognition: unsupervised understanding of repetitive assembly work in a factory (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971721)]
+- <a name="TPFAR"></a> Toward practical factory activity recognition: unsupervised understanding of repetitive assembly work in a factory (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971721)]
 
-- <a name="WSMMHAR"></a> Wearable sensor based multimodal human activity recognition exploiting the diversity of classifier ensemble (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971708)]
+- <a name="WSMMHAR"></a> Wearable sensor based multimodal human activity recognition exploiting the diversity of classifier ensemble (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2971648.2971708)]
 
-- <a name="EMSPA"></a> Experiences measuring sleep and physical activity patterns across a large college cohort with fitbits (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2971763.2971767)]
+- <a name="EMSPA"></a> Experiences measuring sleep and physical activity patterns across a large college cohort with fitbits (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2971763.2971767)]
 
 ### 2015
 
-- <a name="MARWD"></a> Mobile Activity Recognition for a Whole Day: Recognizing Real Nursing Activities with Big Dataset (**UBICOMP**) [[paper](https://core.ac.uk/download/pdf/147426671.pdf)]
+- <a name="MARWD"></a> Mobile Activity Recognition for a Whole Day: Recognizing Real Nursing Activities with Big Dataset (**ubicomp**) [[paper](https://core.ac.uk/download/pdf/147426671.pdf)]
 
-- <a name="BYAR"></a> Beyond activity recognition: skill assessment from accelerometer data (**UBICOMP**) [[paper](https://research.monash.edu/en/publications/beyond-activity-recognition-skill-assessment-from-accelerometer-d)]
+- <a name="BYAR"></a> Beyond activity recognition: skill assessment from accelerometer data (**ubicomp**) [[paper](https://research.monash.edu/en/publications/beyond-activity-recognition-skill-assessment-from-accelerometer-d)]
 
-- <a name="100CT"></a> I did not smoke 100 cigarettes today!: avoiding false positives in real-world activity recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2804256)]
+- <a name="100CT"></a> I did not smoke 100 cigarettes today!: avoiding false positives in real-world activity recognition (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2804256)]
 
-- <a name="LST"></a> Let's (not) stick together: pairwise similarity biases cross-validation in activity recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2807551)]
+- <a name="LST"></a> Let's (not) stick together: pairwise similarity biases cross-validation in activity recognition (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2807551)]
 
-- <a name="IAR"></a> Improved activity recognition by using enriched acceleration data (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2805844)]
+- <a name="IAR"></a> Improved activity recognition by using enriched acceleration data (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2805844)]
 
-- <a name="ATB"></a> Activity tracking: Barriers, workarounds and customisation (**UBICOMP**) [[paper](https://discovery.ucl.ac.uk/id/eprint/1475593/)]
+- <a name="ATB"></a> Activity tracking: Barriers, workarounds and customisation (**ubicomp**) [[paper](https://discovery.ucl.ac.uk/id/eprint/1475593/)]
 
-- <a name="ASCACA"></a> A field study comparing approaches to collecting annotated activity data in real-world settings (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2807524)]
+- <a name="ASCACA"></a> A field study comparing approaches to collecting annotated activity data in real-world settings (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2807524)]
 
-- <a name="PRAR"></a> Personalization revisited: a reflective approach helps people better personalize health services and motivates them to increase physical activity (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2807552)]
+- <a name="PRAR"></a> Personalization revisited: a reflective approach helps people better personalize health services and motivates them to increase physical activity (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2750858.2807552)]
 
 ### 2014
 
-- <a name="MHAULCUT"></a> MONITORING HOUSEHOLD ACTIVITIES AND USER LOCATION WITH A CHEAP, UNOBTRUSIVE THERMAL SENSOR ARRAY (**UBICOMP**) [[paper](https://www.dfki.de/en/web/research/projects-and-publications/publications-overview/publication/7531/)]
+- <a name="MHAULCUT"></a> MONITORING HOUSEHOLD ACTIVITIES AND USER LOCATION WITH A CHEAP, UNOBTRUSIVE THERMAL SENSOR ARRAY (**ubicomp**) [[paper](https://www.dfki.de/en/web/research/projects-and-publications/publications-overview/publication/7531/)]
 
-- <a name="CPSN"></a> Connecting personal-scale sensing and networked community behavior to infer human activities  (**UBICOMP**) [[paper](https://dl.acm.org/doi/abs/10.1145/2632048.2636094)]
+- <a name="CPSN"></a> Connecting personal-scale sensing and networked community behavior to infer human activities  (**ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/2632048.2636094)]
 
-- <a name="UEAREECSI"></a> Using electrodermal activity to recognize ease of engagement in children during social interactions (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2632048.2636065)]
+- <a name="UEAREECSI"></a> Using electrodermal activity to recognize ease of engagement in children during social interactions (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2632048.2636065)]
 
 ### 2013
 
-- <a name="PARAS"></a> Predicting audience responses to movie content from electro-dermal activity signals  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493508)]
+- <a name="PARAS"></a> Predicting audience responses to movie content from electro-dermal activity signals  (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493508)]
 
-- <a name="FGSSPA"></a> Fine-Grained Sharing of Sensed Physical Activity: A Value Sensitive Approach  (**UBICOMP**) [[paper](https://homes.cs.washington.edu/~jfogarty/publications/ubicomp2013.pdf)]
+- <a name="FGSSPA"></a> Fine-Grained Sharing of Sensed Physical Activity: A Value Sensitive Approach  (**ubicomp**) [[paper](https://homes.cs.washington.edu/~jfogarty/publications/ubicomp2013.pdf)]
 
-- <a name="SETOAR"></a> Sensor-embedded teeth for oral activity recognition (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494352)]
+- <a name="SETOAR"></a> Sensor-embedded teeth for oral activity recognition (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494352)]
 
-- <a name="DOGAR"></a> Dog's life: wearable activity recognition for dogs (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493519)]
+- <a name="DOGAR"></a> Dog's life: wearable activity recognition for dogs (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493519)]
 
-- <a name="ZSLHAR"></a> Towards zero-shot learning for human activity recognition using semantic attribute sequence model (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493511)]
+- <a name="ZSLHAR"></a> Towards zero-shot learning for human activity recognition using semantic attribute sequence model (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493511)]
 
-- <a name="RIIIARAT"></a> Reducing user intervention in incremental activity recognition for assistive technologies (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494350)]
+- <a name="RIIIARAT"></a> Reducing user intervention in incremental activity recognition for assistive technologies (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494350)]
 
-- <a name="PMPAR"></a> Personalized mobile physical activity recognition  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494349)]
+- <a name="PMPAR"></a> Personalized mobile physical activity recognition  (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494349)]
 
-- <a name="AHUSMGAR"></a> A Hybrid Unsupervised/Supervised Model for Group Activity Recognition (**UBICOMP**) [[paper](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/paper/maekawa-ISWC2013.pdf)]
+- <a name="AHUSMGAR"></a> A Hybrid Unsupervised/Supervised Model for Group Activity Recognition (**ubicomp**) [[paper](http://www-mmde.ist.osaka-u.ac.jp/~maekawa/paper/maekawa-ISWC2013.pdf)]
 
-- <a name="CMAPAR"></a> Confidence-based Multiclass AdaBoost for Physical Activity Monitoring (**UBICOMP**) [[paper](https://www.researchgate.net/publication/257820467_Confidence-based_Multiclass_AdaBoost_for_Physical_Activity_Monitoring)]
+- <a name="CMAPAR"></a> Confidence-based Multiclass AdaBoost for Physical Activity Monitoring (**ubicomp**) [[paper](https://www.researchgate.net/publication/257820467_Confidence-based_Multiclass_AdaBoost_for_Physical_Activity_Monitoring)]
 
-- <a name="AEOCAR"></a> An exploration with online complex activity recognition using cellphone accelerometer  (**UBICOMP**) [[paper](https://www.researchgate.net/publication/262159302_An_exploration_with_online_complex_activity_recognition_using_cellphone_accelerometer)]
+- <a name="AEOCAR"></a> An exploration with online complex activity recognition using cellphone accelerometer  (**ubicomp**) [[paper](https://www.researchgate.net/publication/262159302_An_exploration_with_online_complex_activity_recognition_using_cellphone_accelerometer)]
 
-- <a name="AMSPRIS"></a> Activity monitoring in daily life as an outcome measure for surgical pain relief intervention using smartphones  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494336)]
+- <a name="AMSPRIS"></a> Activity monitoring in daily life as an outcome measure for surgical pain relief intervention using smartphones  (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2493988.2494336)]
 
-- <a name="ARNMTCN"></a> Activity recognition and nutrition monitoring in every day situations with a textile capacitive neckband  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2494091.2494143)]
+- <a name="ARNMTCN"></a> Activity recognition and nutrition monitoring in every day situations with a textile capacitive neckband  (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2494091.2494143)]
 
-- <a name="UniPad"></a> [**UniPad**] UniPad: Orchestrating collaborative activities through shared tablets and an integrated wall display  (**UBICOMP**) [[paper](https://uclic.ucl.ac.uk/publications/912121)]
+- <a name="UniPad"></a> [**UniPad**] UniPad: Orchestrating collaborative activities through shared tablets and an integrated wall display  (**ubicomp**) [[paper](https://uclic.ucl.ac.uk/publications/912121)]
 
-- <a name="HARUHS"></a> Human Activity Recognition Using Heterogeneous Sensors  (**UBICOMP**) [[paper](http://ubicomp.org/ubicomp2013/dc/shoaib-jr-ds-crc.pdf)]
+- <a name="HARUHS"></a> Human Activity Recognition Using Heterogeneous Sensors  (**ubicomp**) [[paper](http://ubicomp.org/ubicomp2013/dc/shoaib-jr-ds-crc.pdf)]
 
-- <a name="POFMHAR"></a> A probabilistic ontological framework for the recognition of multilevel human activities  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493501)]
+- <a name="POFMHAR"></a> A probabilistic ontological framework for the recognition of multilevel human activities  (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2493432.2493501)]
 
-- <a name="SMSADL"></a> Smartphone-based monitoring system for activities of daily living for elderly people and their relatives etc.  (**UBICOMP**) [[paper](https://dl.acm.org/doi/10.1145/2494091.2494120)]
+- <a name="SMSADL"></a> Smartphone-based monitoring system for activities of daily living for elderly people and their relatives etc.  (**ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/2494091.2494120)]
 
-- <a name="USMLDA"></a> Ubiquitous support for midwives to leverage daily activities  (**UBICOMP**) [[paper](https://www.researchgate.net/publication/262366613_Ubiquitous_support_for_midwives_to_leverage_daily_activities)]
+- <a name="USMLDA"></a> Ubiquitous support for midwives to leverage daily activities  (**ubicomp**) [[paper](https://www.researchgate.net/publication/262366613_Ubiquitous_support_for_midwives_to_leverage_daily_activities)]
 
-- <a name="CEACVRFPA"></a> Combining Embedded Accelerometers with Computer Vision for Recognizing Food Preparation Activities  (**UBICOMP**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.8684&rep=rep1&type=pdf)]
+- <a name="CEACVRFPA"></a> Combining Embedded Accelerometers with Computer Vision for Recognizing Food Preparation Activities  (**ubicomp**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.8684&rep=rep1&type=pdf)]
 
 
 
 ### 2012
 
-- <a name="UPRSPA"></a> Understanding Physiological Responses to Stressors during Physical Activity  (**UBICOMP**) [[paper](https://www.researchgate.net/profile/Julian_Ramos_Rojas/publication/236222556_Understanding_physiological_responses_to_stressors_during_physical_activity/links/004635300ed7b576f3000000.pdf)]
+- <a name="UPRSPA"></a> Understanding Physiological Responses to Stressors during Physical Activity  (**ubicomp**) [[paper](https://www.researchgate.net/profile/Julian_Ramos_Rojas/publication/236222556_Understanding_physiological_responses_to_stressors_during_physical_activity/links/004635300ed7b576f3000000.pdf)]
 
-- <a name="ASOA"></a> A Spark Of Activity: Exploring Information Art As Visualization For Physical Activity  (**UBICOMP**) [[paper](https://www.researchgate.net/publication/262176140_A_spark_of_activity_Exploring_informative_art_as_visualization_for_physical_activity)]
+- <a name="ASOA"></a> A Spark Of Activity: Exploring Information Art As Visualization For Physical Activity  (**ubicomp**) [[paper](https://www.researchgate.net/publication/262176140_A_spark_of_activity_Exploring_informative_art_as_visualization_for_physical_activity)]
 
-- <a name="FGKAR"></a> Fine-Grained Kitchen Activity Recognition using RGB-D (**UBICOMP**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.259.2140&rep=rep1&type=pdf)]
+- <a name="FGKAR"></a> Fine-Grained Kitchen Activity Recognition using RGB-D (**ubicomp**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.259.2140&rep=rep1&type=pdf)]
 
-- <a name="BodyScope"></a> **[BodyScope]** BodyScope: A Wearable Acoustic Sensor for Activity Recognition (**UBICOMP**) [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/09/Ubicomp2012.pdf)]
+- <a name="BodyScope"></a> **[BodyScope]** BodyScope: A Wearable Acoustic Sensor for Activity Recognition (**ubicomp**) [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/09/Ubicomp2012.pdf)]
 
-- <a name="AIF4HAR"></a> An Integrated Framework for Human Activity Classification (**UBICOMP**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.2178&rep=rep1&type=pdf)]
+- <a name="AIF4HAR"></a> An Integrated Framework for Human Activity Classification (**ubicomp**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.2178&rep=rep1&type=pdf)]
 
 ### 2011
 
-- <a name="TPUCS"></a> The Place for Ubiquitous Computing in Schools: Lessons Learned from a School-Based Intervention for Youth Physical Activity  (**UBICOMP**) [[paper](https://www.andrewmiller.net/pdf/2011_Poole.pdf)]
+- <a name="TPUCS"></a> The Place for Ubiquitous Computing in Schools: Lessons Learned from a School-Based Intervention for Youth Physical Activity  (**ubicomp**) [[paper](https://www.andrewmiller.net/pdf/2011_Poole.pdf)]
 
-- <a name="CSN"></a> **[CSN]** Enabling Large-scale Human Activity Inference on Smartphones using Community Similarity Networks  (**UBICOMP**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.3380&rep=rep1&type=pdf)]
+- <a name="CSN"></a> **[CSN]** Enabling Large-scale Human Activity Inference on Smartphones using Community Similarity Networks  (**ubicomp**) [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.3380&rep=rep1&type=pdf)]
 
 ### 2010
 
-- <a name="UWATDIPAE"></a> Using Wearable Activity Type Detection to Improve Physical Activity Energy Expenditure Estimation (**UBICOMP**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6122605/)]
+- <a name="UWATDIPAE"></a> Using Wearable Activity Type Detection to Improve Physical Activity Energy Expenditure Estimation (**ubicomp**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6122605/)]

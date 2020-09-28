@@ -8,10 +8,6 @@
 
 A curated list of awesome Human Activity Recognition(Ubiquitous Computing) resources.
 
-### Ubiquitous Computing for Sleep Monitoring
-
-Please refer to [this page](Sleep/Sleep.md) and contact [BingZhai](https://github.com/famousgrouse)
-
 ## Contents
 * [Misc](#misc)
 * [Datasets](#Datasets)

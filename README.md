@@ -31,13 +31,14 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### Institutions
 
-* MIT Media Lab [HomePage](https://www.media.mit.edu)
-* THU [HomePage](http://pi.cs.tsinghua.edu.cn/)
-* CMU [HomePage](https://www.hcii.cmu.edu/)
-* Chinese Academy of Sciences [HomePage](http://www.cas.cn/)
+* Sensor Technology Research Centre @UOS: Daniel Roggen [HomePage](http://www.sussex.ac.uk/strc/research/wearable)
 * CBA Lab @GeorgiaTech: Thomas Ploetz [HomePage](http://www.cba.gatech.edu)
 * MLSys Lab @University of Cambridge: Nicholas D. Lane [HomePage](http://niclane.org/lab/)
+* THU [HomePage](http://pi.cs.tsinghua.edu.cn/)
 * Open Lab @NCL: Yu Guan [HomePage](https://openlab.ncl.ac.uk)
+* MIT Media Lab [HomePage](https://www.media.mit.edu)
+* CMU [HomePage](https://www.hcii.cmu.edu/)
+* Chinese Academy of Sciences [HomePage](http://www.cas.cn/)
 * TBD shortly
 
 ### Blogs

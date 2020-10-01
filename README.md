@@ -167,7 +167,11 @@ Please refer to [this page](Codes/Codes.md).
 
 ### 2017
 
+- <a name="ELSTM"></a> **[EnsemblesLSTM]** Ensembles of Deep LSTM Learners for Activity Recognition using Wearables (**IMWUT/ubicomp**) [[paper](https://arxiv.org/pdf/1703.09370.pdf)] [[Tensorflow](https://github.com/tploetz/LSTMEnsemble4HAR)]
+
 - <a name="UOADTBA"></a> Unsupervised online activity discovery using temporal behaviour assumption (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3123021.3123044)]
+
+- <a name="DL4HAR"></a> Deep Learning for Sensor-based Activity Recognition: A Survey (**Pattern Recognition Letters**) [[paper](https://arxiv.org/pdf/1707.03502.pdf)]
 
 - <a name="CovertBand"></a> [**CovertBand**] CovertBand: Activity Information Leakage using Music (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3131897)]
 
@@ -181,8 +185,6 @@ Please refer to [this page](Codes/Codes.md).
 - <a name="ARQABSCHR"></a> Activity Recognition for Quality Assessment of Batting Shots in Cricket using a Hierarchical Representation (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3130927)]
 
 - <a name="ACG"></a> Activity Recognition at Google: Building and Deploying Machine Learning for a Billion Android Devices (**IMWUT/ubicomp**) [[paper](https://research.google/pubs/pub46783/)]
-
-- <a name="ELSTM"></a> **[EnsemblesLSTM]** Ensembles of Deep LSTM Learners for Activity Recognition using Wearables (**IMWUT/ubicomp**) [[paper](https://arxiv.org/pdf/1703.09370.pdf)] [[Tensorflow](https://github.com/tploetz/LSTMEnsemble4HAR)]
 
 - <a name="LPARS"></a> Label Propagation: An Unsupervised Similarity Based Method for Integrating New Sensors in Activity Recognition Systems (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3130959)]
 

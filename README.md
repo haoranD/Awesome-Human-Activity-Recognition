@@ -6,7 +6,7 @@
   <img width="300" src="https://i.imgur.com/Ky2jxnj.png" "Awesome!">
 </p>
 
-A curated list of awesome Human Activity Recognition(Ubiquitous Computing) resources.
+A curated list of awesome IMU-based Human Activity Recognition(Ubiquitous Computing) resources.
 
 ## Contents
 * [Misc](#misc)

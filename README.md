@@ -66,6 +66,8 @@ Please refer to [this page](Codes/Codes.md).
 
 - <a name="CDTL"></a> Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning (**IMWUT/ubicomp**) [[paper](http://jd92.wang/assets/files/a20_ubicomp20.pdf)]
 
+- <a name="TDCHAR"></a> Towards Deep Clustering of Human Activities from Wearables (**ISWC/ubicomp**) [[paper](https://arxiv.org/abs/2008.01659)]
+
 - <a name="PCCOAR"></a> Personalized Context-aware Collaborative Online Activity Prediction (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3369829)]
 
 - <a name="UDA4HAR"></a> **[UDA4HAR]** A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3380985)]

@@ -106,6 +106,8 @@ Please refer to [this page](Codes/Codes.md).
 
 - <a name="SparseSense"></a> **[SparseSense]** SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks (**IJCAI**) [[paper](https://arxiv.org/pdf/1906.02399.pdf)]
 
+- <a name="DSEMI4HAR"></a> Distribution-based Semi-Supervised Learning for Activity Recognition (**AAAI**) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4765)]
+
 - <a name="MRFID"></a> Modeling RFID Signal Reflection for Contact-free Activity Recognition (**IMWUT/ubicomp**) [[paper](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/RFIDActivityRecognition_Ubicomp19.pdf)]
 
 - <a name="TDSHAR"></a> Towards a Diffraction-based Sensing Approach on Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://www.researchgate.net/publication/332164511_Towards_a_Diffraction-based_Sensing_Approach_on_Human_Activity_Recognition)]

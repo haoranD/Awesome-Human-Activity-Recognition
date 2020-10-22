@@ -12,7 +12,7 @@ A curated list of awesome IMU-based Human Activity Recognition(Ubiquitous Comput
 * [Misc](#misc)
 * [Datasets](#Datasets)
 * [Papers](#Papers)
-* [Codes](#Codes)
+* [PwC](#PwC)
 
 ## Acknowledgment
 
@@ -52,9 +52,11 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 Please refer to [this page](Data/Datasets.md).
 
-## Codes
+## PwC
 
-Please refer to [this page](Codes/Codes.md).
+TBD
+
+Selected paper with codes, it is important for the works to publish thier codes to community. [this page](Codes/Codes.md).
 
 ## Papers
 

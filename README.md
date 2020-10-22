@@ -103,9 +103,7 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="MAAR"></a> Multi-agent Attentional Activity Recognition (**IJCAI**) [[paper](https://arxiv.org/pdf/1905.08948.pdf)][[code](https://github.com/KaixuanChen/Multi-agent-Attentional-Activity-Recognition)]
 
-- <a name="SparseSense"></a> **[SparseSense]** SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks (**IJCAI**) [[paper](https://arxiv.org/pdf/1906.02399.pdf)]
-
-- <a name="DSEMI4HAR"></a> Distribution-based Semi-Supervised Learning for Activity Recognition (**AAAI**) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4765)]
+- <a name="DSEMI4HAR"></a> Distribution-based Semi-Supervised Learning for Activity Recognition (**AAAI**) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4765)][[code](https://github.com/Hangwei12358/AAAI2019_DSSL)]
 
 - <a name="MRFID"></a> Modeling RFID Signal Reflection for Contact-free Activity Recognition (**IMWUT/ubicomp**) [[paper](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/RFIDActivityRecognition_Ubicomp19.pdf)]
 

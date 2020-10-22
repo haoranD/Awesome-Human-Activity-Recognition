@@ -117,15 +117,6 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="HDNW"></a> How Does a Nation Walk? Interpreting Large-Scale Step Count Activity with Weekly Streak Patterns (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3328928)]
 
-- <a name="GAZEDAR"></a> Combining Lowand Mid-Level Gaze Features for Desktop Activity Recognition (**IMWUT/ubicomp**) [[paper](https://www.researchgate.net/publication/329955224_Combining_Low_and_Mid-Level_Gaze_Features_for_Desktop_Activity_Recognition)]
-
-- <a name="IARNCR"></a> Integrating Activity Recognition and Nursing Care Records: The System, Deployment, and a Verification Study
- (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3351244)]
-
-- <a name="6WATSW"></a> The Positive Impact of Push vs Pull Progress Feedback: A 6-week Activity Tracking Study in the Wild (**IMWUT/ubicomp**) [[paper](http://octaviazahrt.com/wp-content/uploads/2020/07/2019-The_Positive_Impact_of_Push_vs_Pull_Progress_Feedback.pdf)]
-
-- <a name="MAMF"></a> Towards a Wearable Low-Cost Ultrasound Device for Classification of Muscle Activity and Muscle Fatigue (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347749)]
-
 ### 2018
 
 - <a name="AARCT"></a> Robust Sensor-Orientation-Independent Feature Selection for Animal Activity Recognition on Collar Tags (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3191747)]

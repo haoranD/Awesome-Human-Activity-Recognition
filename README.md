@@ -107,13 +107,11 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="ORFHAR"></a> On the Role of Features in Human Activity Recognition (**ISWC/ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347727)]
 
-- <a name="HAUHAR"></a> Handling Annotation Uncertainty in Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3341163.3347744)]
+- <a name="HAUHAR"></a> Handling Annotation Uncertainty in Human Activity Recognition (**ISWC/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3341163.3347744)]
 
 - <a name="ALAHAR"></a> Leveraging Active Learning and Conditional Mutual Information to Minimize Data Annotation in Human Activity Recognition (**IMWUT/ubicomp**) [[paper](http://users.ece.utexas.edu/~ethomaz/papers/j6.pdf)]
 
 - <a name="MTSSHAR"></a> Multi-task Self-Supervised Learning for Human Activity Detection (**IMWUT/ubicomp**) [[paper](https://arxiv.org/abs/1907.11879)]
-
-- <a name="UFAAR"></a> Unsupervised Factory Activity Recognition with Wearable Sensors Using Process Instruction Information (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3328931)]
 
 - <a name="Vision2Sensor"></a> **[Vision2Sensor]** Vision2Sensor: Knowledge Transfer Across Sensing Modalities for Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347727)]
 

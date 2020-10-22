@@ -73,8 +73,6 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="TDCHAR"></a> Towards Deep Clustering of Human Activities from Wearables (**ISWC/ubicomp**) [[paper](https://arxiv.org/abs/2008.01659)]
 
-- <a name="PCCOAR"></a> Personalized Context-aware Collaborative Online Activity Prediction (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3369829)]
-
 - <a name="UDA4HAR"></a> **[UDA4HAR]** A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3380985)]
 
 - <a name="METIER"></a> **[METIER]** METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3381012)]

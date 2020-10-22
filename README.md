@@ -79,14 +79,12 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="WSMT4HAR"></a> Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3397330)]
 
-- <a name="DAAEAD"></a> Detection of Artifacts in Ambulatory Electrodermal Activity Data (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3397316)]
-
 - <a name="IMUTube"></a> **[IMUTube]** IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://arxiv.org/abs/2006.05675)]
 
 - <a name="TSMSDM"></a> Robust Unsupervised Factory Activity Recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs
  (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3411836)]
  
- - <a name="MSS"></a> Masked reconstruction based self-supervision for human activity recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3410531.3414306)]
+ - <a name="MSS"></a> Masked reconstruction based self-supervision for human activity recognition (**ISWC/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3410531.3414306)]
  
  - <a name="TSMSDM"></a> Digging deeper: towards a better understanding of transfer learning for human activity recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs  (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3410531.3414311)]
  

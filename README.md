@@ -86,7 +86,7 @@ Selected paper with codes, it is important for the works to publish thier codes 
  
  - <a name="MSS"></a> Masked reconstruction based self-supervision for human activity recognition (**ISWC/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3410531.3414306)]
  
- - <a name="TSMSDM"></a> Digging deeper: towards a better understanding of transfer learning for human activity recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs  (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3410531.3414311)]
+ - <a name="TSMSDM"></a> Digging deeper: towards a better understanding of transfer learning for human activity recognition with Body-worn Accelerometer Using Temporal Structure of Multiple Sensor Data Motifs  (**ISWC/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3410531.3414311)]
  
  - <a name="HASCA1"></a> IndRNN based long-term temporal recognition in the spatial and frequency domain  (**ISWC/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3410530.3414355)]
  

@@ -97,7 +97,7 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 ### 2019
 
-- <a name="NDENNSBAR"></a> A Novel Distribution-Embedded Neural Network for Sensor-Based Activity Recognition (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2019/0779.pdf)]
+- <a name="NDENNSBAR"></a> A Novel Distribution-Embedded Neural Network for Sensor-Based Activity Recognition (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2019/0779.pdf)][[code](https://github.com/Hangwei12358/IJCAI2019_DDNN)]
 
 - <a name="AttnSense"></a> **[AttnSense]** AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2019/0431.pdf)]
 

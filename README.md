@@ -69,7 +69,7 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="CDTL"></a> Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning (**IMWUT/ubicomp**) [[paper](http://jd92.wang/assets/files/a20_ubicomp20.pdf)]
 
-- <a name="MARS"></a> MARS: Mixed Virtual and Real Wearable Sensors for Human Activity Recognition with Multi-Domain Deep Learning Model (**IMWUT/ubicomp**) [[paper](https://arxiv.org/abs/2009.09404)]
+- <a name="MARS"></a> MARS: Mixed Virtual and Real Wearable Sensors for Human Activity Recognition with Multi-Domain Deep Learning Model [[arXiv](https://arxiv.org/abs/2009.09404)]
 
 - <a name="TDCHAR"></a> Towards Deep Clustering of Human Activities from Wearables (**ISWC/ubicomp**) [[paper](https://arxiv.org/abs/2008.01659)]
 

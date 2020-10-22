@@ -75,12 +75,6 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="UDA4HAR"></a> **[UDA4HAR]** A Systematic Study of Unsupervised Domain Adaptation for Robust Human-Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3380985)]
 
-<!--- <a name="METIER"></a> **[METIER]** METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors (**IMWUT/ubicomp**) ##[[paper](https://dl.acm.org/doi/pdf/10.1145/3381012)]-->
-
-<!---- <a name="DeepMV"></a> **[DeepMV]** DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3380980)]-->
-
-<!---- <a name="CARIN"></a> **[CARIN]** CARIN: Wireless CSI-based Driver Activity Recognition under the Interference of Passengers (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3380992)]-->
-
 - <a name="AMNAR"></a> Adversarial Multi-view Networks for Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3397323)]
 
 - <a name="WSMT4HAR"></a> Weakly Supervised Multi-Task Representation Learning for Human Activity Analysis Using Wearables (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3397330)]

@@ -105,15 +105,7 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="DSEMI4HAR"></a> Distribution-based Semi-Supervised Learning for Activity Recognition (**AAAI**) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4765)][[code](https://github.com/Hangwei12358/AAAI2019_DSSL)]
 
-- <a name="MRFID"></a> Modeling RFID Signal Reflection for Contact-free Activity Recognition (**IMWUT/ubicomp**) [[paper](https://www4.comp.polyu.edu.hk/~csyqzheng/papers/RFIDActivityRecognition_Ubicomp19.pdf)]
-
-- <a name="TDSHAR"></a> Towards a Diffraction-based Sensing Approach on Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://www.researchgate.net/publication/332164511_Towards_a_Diffraction-based_Sensing_Approach_on_Human_Activity_Recognition)]
-
-- <a name="InDexMo"></a> **[InDexMo]** InDexMo: exploring finger-worn RFID motion tracking for activity recognition on tagged objects (**IMWUT/ubicomp**) [[paper](https://www.researchgate.net/publication/335649908_InDexMo_exploring_finger-worn_RFID_motion_tracking_for_activity_recognition_on_tagged_objects)]
-
-- <a name="BR"></a> Beyond Respiration: Contactless Sleep Sound-Activity Recognition Using RF Signals (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3351254)]
-
-- <a name="ORFHAR"></a> On the Role of Features in Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347727)]
+- <a name="ORFHAR"></a> On the Role of Features in Human Activity Recognition (**ISWC/ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347727)]
 
 - <a name="HAUHAR"></a> Handling Annotation Uncertainty in Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3341163.3347744)]
 

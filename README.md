@@ -101,7 +101,7 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="AttnSense"></a> **[AttnSense]** AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2019/0431.pdf)]
 
-- <a name="MAAR"></a> Multi-agent Attentional Activity Recognition (**IJCAI**) [[paper](https://arxiv.org/pdf/1905.08948.pdf)]
+- <a name="MAAR"></a> Multi-agent Attentional Activity Recognition (**IJCAI**) [[paper](https://arxiv.org/pdf/1905.08948.pdf)][[code](https://github.com/KaixuanChen/Multi-agent-Attentional-Activity-Recognition)]
 
 - <a name="SparseSense"></a> **[SparseSense]** SparseSense: Human Activity Recognition from Highly Sparse Sensor Data-streams Using Set-based Neural Networks (**IJCAI**) [[paper](https://arxiv.org/pdf/1906.02399.pdf)]
 

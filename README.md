@@ -119,35 +119,15 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 ### 2018
 
-- <a name="AARCT"></a> Robust Sensor-Orientation-Independent Feature Selection for Animal Activity Recognition on Collar Tags (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3191747)]
+- <a name="UIRNHAR"></a> Understanding and Improving Recurrent Networks for Human Activity Recognition by Continuous Attention (**ISWC/ubicomp**) [[paper](https://arxiv.org/abs/1810.04038)]
 
-- <a name="RC"></a> Reflection Companion: A Conversational System for Engaging Users in Reflection on Physical Activity (**IMWUT/ubicomp**) [[paper](https://faculty.washington.edu/garyhs/docs/kocielnik-UBICOMP2018-reflection.pdf)]
+- <a name="OSWDHAR"></a> On specialized window lengths and detector based human activity recognition (**ISWC/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3267242.3267246)]
 
-- <a name="FSS"></a> Finding the Sweet Spot(s): Understanding Context to Support Physical Activity Plans (**IMWUT/ubicomp**) [[paper](https://mwnewman.people.si.umich.edu/fulltext/ubicomp2018-sweetspots.pdf)]
+- <a name="ASCDARHAR"></a> Adding structural characteristics to distribution-based accelerometer representations for activity recognition using wearables (**ISWC/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3267242.3267258)]
 
-- <a name="UASEE"></a> Unobtrusive Assessment of Students' Emotional Engagement during Lectures Using Electrodermal Activity Sensors (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3264913)]
-
-- <a name="UIRNHAR"></a> Understanding and Improving Recurrent Networks for Human Activity Recognition by Continuous Attention (**IMWUT/ubicomp**) [[paper](https://arxiv.org/abs/1810.04038)]
-
-- <a name="OSWDHAR"></a> On specialized window lengths and detector based human activity recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3267242.3267246)]
-
-- <a name="ASCDARHAR"></a> Adding structural characteristics to distribution-based accelerometer representations for activity recognition using wearables (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3267242.3267258)]
-
-- <a name="TFAI"></a> TagFree Activity Identification with RFIDs (**IMWUT/ubicomp**) [[paper](http://www.ece.ubc.ca/~xiaoyif/Papers/tagfree-ubicomp.pdf)]
-
-- <a name="SpiderWalk"></a> **[SpiderWalk]** SpiderWalk: Circumstance-aware Transportation Activity Detection Using a Novel Contact Vibration Sensor (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/3191774)]
-
-- <a name="FHARWDC"></a> Feasibility of human activity recognition using wearable depth cameras (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3267242.3267276)]
-
-- <a name="OAHAR"></a> On Attention Models for Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://arxiv.org/abs/1805.07648)]
-
-- <a name="DeActive"></a> **[DeActive]** DeActive: Scaling Activity Recognition with Active Deep Learning (**IMWUT/ubicomp**) [[paper](https://mdsoar.org/bitstream/handle/11603/11042/IMWUT_DeActive.pdf?sequence=1&isAllowed=y)]
-
-- <a name="MDLACR"></a> Multimodal Deep Learning for Activity and Context Recognition (**IMWUT/ubicomp**) [[paper](https://www.fahim-kawsar.net/papers/Radu.UbiComp2018-Camera.pdf)]
+- <a name="OAHAR"></a> On Attention Models for Human Activity Recognition (**ISWC/ubicomp**) [[paper](https://arxiv.org/abs/1805.07648)]
 
 - <a name="AROMA"></a> **[AROMA]** AROMA: A Deep Multi-Task Learning Based Simple and Complex Human Activity Recognition Method Using Wearable Sensors (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/3214277?download=true)]
-
-- <a name="MBPCEAR"></a> Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation (**IMWUT/ubicomp**) [[paper](http://users.ece.utexas.edu/~ethomaz/papers/j2.pdf)]
 
 ### 2017
 

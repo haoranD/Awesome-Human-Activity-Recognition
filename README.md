@@ -113,7 +113,7 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="MTSSHAR"></a> Multi-task Self-Supervised Learning for Human Activity Detection (**IMWUT/ubicomp**) [[paper](https://arxiv.org/abs/1907.11879)]
 
-- <a name="Vision2Sensor"></a> **[Vision2Sensor]** Vision2Sensor: Knowledge Transfer Across Sensing Modalities for Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/3341163.3347727)]
+- <a name="Vision2Sensor"></a> **[Vision2Sensor]** Vision2Sensor: Knowledge Transfer Across Sensing Modalities for Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3351242)]
 
 - <a name="HDNW"></a> How Does a Nation Walk? Interpreting Large-Scale Step Count Activity with Weekly Streak Patterns (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3328928)]
 

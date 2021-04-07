@@ -26,7 +26,9 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ## Misc
 
-### Challenge
+### Events and Challenges
+- [[UbiComp-2021](https://www.ubicomp.org/ubicomp2021/)]
+- [[UbiComp-2021](https://www.ubicomp.org/ubicomp2021/)]
 - [[Sussex-Huawei Locomotion Challenge 2020](http://www.shl-dataset.org/activity-recognition-challenge-2020/#q&a_section)] ~~HASCA Workshop at Ubicomp 2020.~~
 
 ### Blogs
@@ -48,6 +50,8 @@ We will provide the data preprocessing code [this page](Data/Datasets.md).
 - <a name="DL4SAR"></a> **[DL4SAR]** Deep Learning for Sensor-based Activity Recognition: A Survey (**Pattern Recognition Letters**) [[paper](https://arxiv.org/pdf/1707.03502.pdf)][[code](https://github.com/jindongwang)]
 
 ### 2021
+
+- <a name="AD4HAR"></a> Attend and Discriminate: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3448083)]
 
 - <a name="AIJQHW"></a> SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data (**IMWUT/ubicomp**) [[paper](https://arxiv.org/abs/2102.06073)]
 

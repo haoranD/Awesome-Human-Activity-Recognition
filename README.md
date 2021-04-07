@@ -1,4 +1,4 @@
-# Awesome IMU-based Human Activity Recognition
+# Awesome Human Activity Recognition (mainly based on IMU data)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -6,7 +6,7 @@
   <img width="300" src="https://i.imgur.com/Ky2jxnj.png" "Awesome!">
 </p>
 
-A curated list of awesome IMU-based Human Activity Recognition(Ubiquitous Computing) resources. 
+An up-to-date & curated list of Awesome IMU-based Human Activity Recognition(Ubiquitous Computing) papers, methods & resources. Please note that most of the collections of researches are mainly based on IMU data.
 
 ## Contents
 * [Misc](#misc)

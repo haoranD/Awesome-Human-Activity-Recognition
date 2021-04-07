@@ -27,7 +27,7 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 ## Misc
 
 ### Events and Challenges
-- [[UbiComp-2021](https://www.ubicomp.org/ubicomp2021/)]
+- [[IMWUT](https://dl.acm.org/journal/imwut)]
 - [[UbiComp-2021](https://www.ubicomp.org/ubicomp2021/)]
 - [[Sussex-Huawei Locomotion Challenge 2020](http://www.shl-dataset.org/activity-recognition-challenge-2020/#q&a_section)] ~~HASCA Workshop at Ubicomp 2020.~~
 

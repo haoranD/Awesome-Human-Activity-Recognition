@@ -6,13 +6,12 @@
   <img width="300" src="https://i.imgur.com/Ky2jxnj.png" "Awesome!">
 </p>
 
-A curated list of awesome IMU-based Human Activity Recognition(Ubiquitous Computing) resources.
+A curated list of awesome IMU-based Human Activity Recognition(Ubiquitous Computing) resources. 
 
 ## Contents
 * [Misc](#misc)
 * [Datasets](#Datasets)
 * [Papers](#Papers)
-* [PwC](#PwC)
 
 ## Acknowledgment
 
@@ -36,13 +35,11 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ## Datasets
 
-Please refer to [this page](Data/Datasets.md).
+- mHealth [[**link**](http://archive.ics.uci.edu/ml/datasets/mhealth+dataset)]
+- Opportunity [[**link**](https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition#:~:text=Data%20Set%20Information%3A-,The%20OPPORTUNITY%20Dataset%20for%20Human%20Activity%20Recognition%20from%20Wearable%2C%20Object,%2C%20feature%20extraction%2C%20etc)]
+- PAMAP2 [[**link**](https://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring)]
 
-## PwC
-
-TBD
-
-Selected paper with codes, it is important for the works to publish thier codes to community. [this page](Codes/Codes.md).
+We will provide the data preprocessing code [this page](Data/Datasets.md).
 
 ## Papers
 
@@ -50,8 +47,17 @@ Selected paper with codes, it is important for the works to publish thier codes 
 
 - <a name="DL4SAR"></a> **[DL4SAR]** Deep Learning for Sensor-based Activity Recognition: A Survey (**Pattern Recognition Letters**) [[paper](https://arxiv.org/pdf/1707.03502.pdf)][[code](https://github.com/jindongwang)]
 
+### 2021
+
+- <a name="AIJQHW"></a> SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data (**IMWUT/ubicomp**) [[paper](https://arxiv.org/abs/2102.06073)]
+
+- <a name="LIEG"></a> Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition (**AAAI 2021**) [[paper](https://github.com/Hangwei12358/cross-person-HAR)]
+
+- <a name="AIJQHW"></a> Weakly-Supervised Sensor-based Activity Segmentation and Recognition via Learning from Distributions (**Artificial Intelligence (AIJ)**) [[paper](http://hangwei12358.github.io/Publications/)]
 
 ### 2020
+
+- <a name="IWDSS4HAR"></a> Instance-Wise Dynamic Sensor Selection for Human Activity Recognition (**AAAI 2020**) [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/5461)]
 
 - <a name="CDTL"></a> Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning (**IMWUT/ubicomp**) [[paper](http://jd92.wang/assets/files/a20_ubicomp20.pdf)]
 

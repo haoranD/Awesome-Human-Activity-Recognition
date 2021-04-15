@@ -35,6 +35,10 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 * [DL4HAR](https://github.com/jindongwang/Deep-learning-activity-recognition)
 
+### Awesomes in the similar research fields
+
+* [AI for sleep health](https://github.com/bzhai/awesome-Sleep-Health-AI)
+
 ## Datasets
 
 - mHealth [[**link**](http://archive.ics.uci.edu/ml/datasets/mhealth+dataset)]

@@ -63,6 +63,8 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### 2020
 
+- <a name="METIER"></a> METIER: A Deep Multi-Task Learning Based Activity and User Recognition Model Using Wearable Sensors (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/abs/10.1145/3381012?casa_token=K86hi7pQN6IAAAAA:4rd6C-6AermBNwwe_6JoEXr-nb7AgbvWjLwfCkElg2MPomb08BV8GOpDxdEQJhwJVCY6g18r5hJiGw)]
+
 - <a name="IWDSS4HAR"></a> Instance-Wise Dynamic Sensor Selection for Human Activity Recognition (**AAAI 2020**) [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/5461)]
 
 - <a name="CDTL"></a> Cross-Dataset Activity Recognition via Adaptive Spatial-Temporal Transfer Learning (**IMWUT/ubicomp**) [[paper](http://jd92.wang/assets/files/a20_ubicomp20.pdf)]

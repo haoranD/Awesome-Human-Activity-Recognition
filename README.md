@@ -53,6 +53,8 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### 2021
 
+- <a name="UNCLUSTER"></a> Unsupervised Human Activity Representation Learning with Multi-task Deep Clustering (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3448074)]
+
 - <a name="AD4HAR"></a> Attend and Discriminate: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3448083)] [[code](https://github.com/AdelaideAuto-IDLab/Attend-And-Discriminate)]
 
 - <a name="AIJQHW"></a> SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data (**IMWUT/ubicomp**) [[paper](https://arxiv.org/abs/2102.06073)]

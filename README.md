@@ -53,6 +53,8 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### 2021
 
+- <a name="tst"></a> Two-Stream Convolution Augmented Transformer for Human Activity Recognition (**AAAI2021**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16103)]
+
 - <a name="UNCLUSTER"></a> Unsupervised Human Activity Representation Learning with Multi-task Deep Clustering (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3448074)]
 
 - <a name="AD4HAR"></a> Attend and Discriminate: Beyond the State-of-the-Art for Human Activity Recognition Using Wearable Sensors (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3448083)]

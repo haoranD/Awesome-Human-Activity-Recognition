@@ -53,6 +53,23 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### 2021
 
+- <a name="CPC"></a> Contrastive Predictive Coding for Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463506)]
+
+- <a name="WYPB"></a> Watching Your Phone's Back: Gesture Recognition by Sensing Acoustical Structure-borne Propagation (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463522)]
+
+- <a name="ApneaDetector"></a> ApneaDetector: Detecting Sleep Apnea with Smartwatches (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463514)]
+
+- <a name="NeckFace"></a> NeckFace: Continuously Tracking Full Facial Expressions on Neck-mounted Wearables (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463511)]
+
+- <a name="pace"></a> We Hear Your PACE: Passive Acoustic Localization of Multiple Walking Persons (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463510)]
+
+- <a name="mTeeth"></a> mTeeth: Identifying Brushing Teeth Surfaces Using Wrist-Worn Inertial Sensors (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463494)]
+
+- <a name="AFAR"></a> Acoustic-based Upper Facial Action Recognition for Smart Eyewear (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3448105)]
+
+
+#####################
+
 - <a name="tst"></a> Two-Stream Convolution Augmented Transformer for Human Activity Recognition (**AAAI2021**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16103)]
 
 - <a name="UNCLUSTER"></a> Unsupervised Human Activity Representation Learning with Multi-task Deep Clustering (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3448074)]

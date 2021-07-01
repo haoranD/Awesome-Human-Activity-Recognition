@@ -55,6 +55,8 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 - <a name="CPC"></a> Contrastive Predictive Coding for Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463506)]
 
+- <a name="LAR"></a> Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463508)]
+
 - <a name="WYPB"></a> Watching Your Phone's Back: Gesture Recognition by Sensing Acoustical Structure-borne Propagation (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463522)]
 
 - <a name="ApneaDetector"></a> ApneaDetector: Detecting Sleep Apnea with Smartwatches (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463514)]

@@ -53,6 +53,8 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### 2021
 
+- <a name="CFLHAR"></a> ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition (**MobiSys**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3458864.3467681)]
+
 - <a name="SLSTMS"></a> Improving Deep Learning for HAR with shallow LSTMs (**ISWC/ubicomp**) [[paper](https://arxiv.org/abs/2108.00702)]
 
 - <a name="CPC"></a> Contrastive Predictive Coding for Human Activity Recognition (**IMWUT/ubicomp**) [[paper](https://dl.acm.org/doi/10.1145/3463506)]

@@ -27,7 +27,7 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 ## Misc
 
 ### Events and Challenges
-- [[IMWUT](https://dl.acm.org/journal/imwut)]
+<!-- - [[IMWUT](https://dl.acm.org/journal/imwut)] -->
 - [[UbiComp-2021](https://www.ubicomp.org/ubicomp2021/)]
 - [[Sussex-Huawei Locomotion Challenge 2020](http://www.shl-dataset.org/activity-recognition-challenge-2020/#q&a_section)] ~~HASCA Workshop at Ubicomp 2020.~~
 
@@ -52,6 +52,8 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 - <a name="DL4SAR"></a> **[DL4SAR]** Deep Learning for Sensor-based Activity Recognition: A Survey (**Pattern Recognition Letters**) [[paper](https://arxiv.org/pdf/1707.03502.pdf)][[code](https://github.com/jindongwang)]
 
 ### 2021
+
+- <a name="SALIENCE"></a> Unsupervised User Adaptation Model for Multiple Wearable Sensors Based Human Activity Recognition [[paper](https://github.com/wdkhuans/SALIENCE)]
 
 - <a name="CFLHAR"></a> ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition (**MobiSys**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3458864.3467681)]
 

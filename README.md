@@ -57,6 +57,8 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### 2021
 
+- <a name="MCNNLSTM"></a> A multibranch CNN-BiLSTM model for human activity recognition using wearable sensor data [[paper](https://link.springer.com/article/10.1007/s00371-021-02283-3)]
+
 - <a name="SALIENCE"></a> Unsupervised User Adaptation Model for Multiple Wearable Sensors Based Human Activity Recognition [[paper](https://github.com/wdkhuans/SALIENCE)]
 
 - <a name="CFLHAR"></a> ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition (**MobiSys**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3458864.3467681)]

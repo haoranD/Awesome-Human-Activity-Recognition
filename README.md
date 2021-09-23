@@ -44,6 +44,15 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 - mHealth [[**link**](http://archive.ics.uci.edu/ml/datasets/mhealth+dataset)]
 - Opportunity [[**link**](https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition#:~:text=Data%20Set%20Information%3A-,The%20OPPORTUNITY%20Dataset%20for%20Human%20Activity%20Recognition%20from%20Wearable%2C%20Object,%2C%20feature%20extraction%2C%20etc)]
 - PAMAP2 [[**link**](https://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring)]
+- GOTOV [[**link**](https://data.4tu.nl/articles/dataset/GOTOV_Human_Physical_Activity_and_Energy_Expenditure_Dataset_on_Older_Individuals/12716081)]
+- REALDISP [[**link**](https://archive.ics.uci.edu/ml/datasets/REALDISP+Activity+Recognition+Dataset)]
+- UCIDSADS [[**link**](https://archive.ics.uci.edu/ml/datasets/daily+and+sports+activities)]
+- MMAct [[**link**](https://paperswithcode.com/dataset/mmact#:~:text=Human%20Action%20Understanding-,MMAct%20is%20a%20large%2Dscale%20dataset,multi%2Fcross%20modal%20action%20understanding.&text=and%20pressure%20signal.-,The%20dataset%20consists%20of%20more%20than%2036k%20video%20clips%20for,in%20four%20different%20distinct%20scenarios.)]
+- TotalCapture [[**link**](https://cvssp.org/data/totalcapture/)]
+- WISDM [[**link**](https://www.cis.fordham.edu/wisdm/dataset.php)]
+- MotionSense [[**link**](https://paperswithcode.com/dataset/motionsense)]
+- MobiAct [[**link**](https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/)]
+- Fenland [[**link**](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/crosssectional-association-between-snacking-behaviour-and-measures-of-adiposity-the-fenland-study-uk/8DD5F30489DA45BA5723C6ED00876307)]
 
 ## Papers
 
@@ -56,6 +65,12 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 - <a name="ML4SENSORHAR"></a> Applying Machine Learning for Sensor Data Analysis in Interactive Systems: Common Pitfalls of Pragmatic Use and Ways to Avoid Them (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3459666)]
 
 ### 2021
+
+- <a name="MFL"></a> Multimodal Federated Learning [[paper](https://arxiv.org/pdf/2109.04833.pdf)]
+
+- <a name="HARSH"></a> A Deep Learning-Based Framework for Human Activity Recognition in Smart Homes [[paper](https://www.hindawi.com/journals/misy/2021/6961343/)]
+
+- <a name="HHH"></a> Interactive Hybrid Intelligence Systems for Human-Ai/Robot Collaboration: Improving the Practices of Physical Stroke Rehabilitation [[paper](https://www.proquest.com/openview/ba001b91ff18a4238cb6d61037ebffd0/1?cbl=18750&diss=y&pq-origsite=gscholar)]
 
 - <a name="CAR"></a> Continual Activity Recognition with Generative Adversarial Networks [[paper](https://dl.acm.org/doi/10.1145/3440036)]
 

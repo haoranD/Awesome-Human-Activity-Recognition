@@ -66,6 +66,18 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### 2021
 
+- <a name="SC"></a> SenseCollect: We Need Efficient Ways to Collect On-body Sensor-based Human Activity Data! [[paper](https://dl.acm.org/doi/10.1145/3478119)]
+
+- <a name="SSRAC"></a> Self-supervised Learning for Reading Activity Classification [[paper](https://dl.acm.org/doi/10.1145/3478088)]
+
+- <a name="ARW"></a> Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data [[paper](https://dl.acm.org/doi/10.1145/3478096)]
+
+- <a name="RMA"></a> Reducing Muscle Activity when Playing Tremolo by Using Electrical Muscle Stimulation to Learn Efficient Motor Skills [[paper](https://dl.acm.org/doi/10.1145/3478110)]
+
+- <a name="LORA"></a> Pushing the Limits of Long Range Wireless Sensing with LoRa [[paper](https://dl.acm.org/doi/10.1145/3478080)]
+
+- <a name="CW"></a> CardiacWave: A mmWave-based Scheme of Non-Contact and High-Definition Heart Activity Computing [[paper](https://dl.acm.org/doi/10.1145/3478127)]
+
 - <a name="MFL"></a> Multimodal Federated Learning [[paper](https://arxiv.org/pdf/2109.04833.pdf)]
 
 - <a name="HARSH"></a> A Deep Learning-Based Framework for Human Activity Recognition in Smart Homes [[paper](https://www.hindawi.com/journals/misy/2021/6961343/)]

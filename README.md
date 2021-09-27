@@ -66,6 +66,8 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### 2021
 
+- <a name="ON"></a> ObscureNet: Learning Attribute-invariant Latent Representation for Anonymizing Sensor Data [[paper](https://dl.acm.org/doi/10.1145/3450268.3453534)]
+
 - <a name="SC"></a> SenseCollect: We Need Efficient Ways to Collect On-body Sensor-based Human Activity Data! [[paper](https://dl.acm.org/doi/10.1145/3478119)]
 
 - <a name="SSRAC"></a> Self-supervised Learning for Reading Activity Classification [[paper](https://dl.acm.org/doi/10.1145/3478088)]

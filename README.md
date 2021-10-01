@@ -53,6 +53,8 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 - MotionSense [[**link**](https://paperswithcode.com/dataset/motionsense)]
 - MobiAct [[**link**](https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/)]
 - Fenland [[**link**](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/crosssectional-association-between-snacking-behaviour-and-measures-of-adiposity-the-fenland-study-uk/8DD5F30489DA45BA5723C6ED00876307)]
+- Salad 50 [[**link**](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/)]
+
 
 ## Papers
 

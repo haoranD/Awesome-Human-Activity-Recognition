@@ -69,6 +69,10 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 - <a name="Overview"></a> Deep Learning for Sensor-based Human Activity Recognition: Overview, Challenges, and Opportunities (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3447744)]
 
 ### 2021
+- <a name="POSE"></a> Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data [[paper](https://dl.acm.org/doi/abs/10.1145/3478096)]
+
+- <a name="CANYOU"></a> Can You See It? Good, So We Can Sense It! [[paper](https://dl.acm.org/doi/abs/10.1145/3486880.3486891)]
+
 - <a name="ENCT"></a> An Ensemble of ConvTransformer Networks for the Sussex-Huawei Locomotion-Transportation (SHL) Recognition Challenge [[paper](https://dl.acm.org/doi/abs/10.1145/3460418.3479383)]
 
 - <a name="NASHAR"></a> Fast Deep Neural Architecture Search for Wearable Activity Recognition by Early Prediction of Converged Performance [[paper](https://dl.acm.org/doi/abs/10.1145/3460421.3478813)]

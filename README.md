@@ -60,13 +60,20 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### Surveys & Overview
 
+- <a name="DLHAR"></a> A Survey on Deep Learning for Human Activity Recognition (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3472290)]
+
+- <a name="ML4SENSORHAR"></a> Applying Machine Learning for Sensor Data Analysis in Interactive Systems: Common Pitfalls of Pragmatic Use and Ways to Avoid Them (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3459666)]
+
 - <a name="DL4SAR"></a> **[DL4SAR]** Deep Learning for Sensor-based Activity Recognition: A Survey (**Pattern Recognition Letters**) [[paper](https://arxiv.org/pdf/1707.03502.pdf)][[code](https://github.com/jindongwang)]
 
 - <a name="Overview"></a> Deep Learning for Sensor-based Human Activity Recognition: Overview, Challenges, and Opportunities (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3447744)]
 
-- <a name="ML4SENSORHAR"></a> Applying Machine Learning for Sensor Data Analysis in Interactive Systems: Common Pitfalls of Pragmatic Use and Ways to Avoid Them (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3459666)]
-
 ### 2021
+- <a name="ENCT"></a> An Ensemble of ConvTransformer Networks for the Sussex-Huawei Locomotion-Transportation (SHL) Recognition Challenge [[paper](https://dl.acm.org/doi/abs/10.1145/3460418.3479383)]
+
+- <a name="NASHAR"></a> Fast Deep Neural Architecture Search for Wearable Activity Recognition by Early Prediction of Converged Performance [[paper](https://dl.acm.org/doi/abs/10.1145/3460421.3478813)]
+
+- <a name="ACCESSHAR"></a> Human Activity Recognition Based on Acceleration Data From Smartphones Using HMMs [[paper](https://ieeexplore.ieee.org/abstract/document/9557268)]
 
 - <a name="ORCL"></a> On the Role of Context Length for Feature Extraction and Sequence Modeling in Human Activity Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3460421.3478825)]
 

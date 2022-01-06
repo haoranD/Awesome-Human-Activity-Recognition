@@ -29,7 +29,10 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 ### Events and Conferences
 <!-- - [[IMWUT](https://dl.acm.org/journal/imwut)] -->
 - [[UbiComp-2021](https://www.ubicomp.org/ubicomp2021/)]
-- [[IJCAI](https://ijcai-22.org/)]
+- [[Ubicomp-IMWUT](https://dl.acm.org/journal/imwut)]
+- [[IJCAI2022](https://ijcai-22.org/)]
+
+
 
 ### Blogs
 

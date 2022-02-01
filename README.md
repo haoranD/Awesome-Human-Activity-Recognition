@@ -71,6 +71,10 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 - <a name="Overview"></a> Deep Learning for Sensor-based Human Activity Recognition: Overview, Challenges, and Opportunities (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3447744)]
 
+### 2022
+
+- 
+
 ### 2021
 - <a name="POSE"></a> Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data [[paper](https://dl.acm.org/doi/abs/10.1145/3478096)]
 

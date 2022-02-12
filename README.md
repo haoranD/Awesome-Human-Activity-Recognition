@@ -1,4 +1,4 @@
-# Awesome Human Activity Recognition (mainly based on SENSOR data)
+# Awesome Human Activity Recognition (mainly related/interacted to SENSOR data)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -7,11 +7,6 @@
 </p>
 
 An up-to-date & curated list of Awesome IMU-based Human Activity Recognition(Ubiquitous Computing) papers, methods & resources. Please note that most of the collections of researches are mainly based on IMU data.
-
-## Contents
-* [Misc](#misc)
-* [Datasets](#Datasets)
-* [Papers](#Papers)
 
 ## Acknowledgment
 
@@ -22,25 +17,12 @@ Many thanks to the useful publications and repos: [Jingdong Wang](https://github
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please feel free to contribute this list by contacting [me](https://github.com/haoranD) or submit the issues or PRs.
+Please feel free to contribute this list.
 
 ## Misc
 
 ### Events and Conferences
-<!-- - [[IMWUT](https://dl.acm.org/journal/imwut)] -->
-- [[UbiComp-2021](https://www.ubicomp.org/ubicomp2021/)]
-- [[Ubicomp-IMWUT](https://dl.acm.org/journal/imwut)]
-- [[IJCAI2022](https://ijcai-22.org/)]
-
-
-
-### Blogs
-
-* [DL4HAR](https://github.com/jindongwang/Deep-learning-activity-recognition)
-<!-- 
-### Awesomes in the similar research fields
-
-* [AI for sleep health](https://github.com/bzhai/awesome-Sleep-Health-AI) -->
+- IMWUT,UbiComp, IJCAI, AAAI, TIP, TNNLS, TPAMI, TMM, Pattern Recognition, AI, Nature Communication
 
 ## Datasets
 
@@ -57,7 +39,35 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 - MobiAct [[**link**](https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/)]
 - Fenland [[**link**](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/crosssectional-association-between-snacking-behaviour-and-measures-of-adiposity-the-fenland-study-uk/8DD5F30489DA45BA5723C6ED00876307)]
 - Salad 50 [[**link**](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/)]
+- DIP [[**link**](https://dip.is.tuebingen.mpg.de/)]
+- LARa [[**link**](https://www.mdpi.com/1424-8220/20/15/4083)]
 
+## Tools
+- SimTK [[**link**](https://simtk.org/projects/opensim)]
+- OpenSense [[**link**](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data)]
+
+## Potential Research Direction
+* Large-Scale/Diverse Dataset Research
+* Multi-Modality: sensor-vision, sensor-skeleton, sensor-3DPose, Sensor-Motion
+* window selection
+* Generative Model: e.g., cross modality data generation, IMU2Skeleton
+* Handling the NULL-Class problem
+* Open-World, Real-World: complex/non-repetitive activities
+* Advanced model
+* Data-cental: active learning, unsupervised learning, semi-supervised learning, self-supervised learning
+* Actiion Segmentation
+* Are the existing settings/models reliable?
+* Graph Representation
+* Motion-Capture, Kinetic
+* Privacy related
+* Interpretability
+* Data Imbalance
+* Domain Adaptation
+* Fine-Grained
+* Multi-Label
+* Federated Learning
+* Ensemble
+* Knowledge Integragation/distillation
 
 ## Papers
 
@@ -73,7 +83,25 @@ Please feel free to contribute this list by contacting [me](https://github.com/h
 
 ### 2022
 
-- 
+- Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition
+- What Makes Good Contrastive Learning on Small-scale Wearable-based Tasks?
+- IMU2Doppler: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data
+- A CNN-based Human Activity Recognition System Combining a Laser Feedback Interferometry Eye Movement Sensor and an IMU for Context-aware Smart Glasses
+- Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi
+- Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings
+- KATN: Key Activity Detection via Inexact Supervised Learning
+- Fusing Visual and Inertial Sensors with Semantics for 3D Human Pose Estimation
+- Multi-gat: A graphical attention-based hierarchical multimodal representation learning approach for human activity recognition
+- Semantics-aware adaptive knowledge distillation for sensor-to-vision action recognition
+- Human action recognition from various data modalities: A review
+- Eldersim: A synthetic data generation platform for human action recognition in eldercare applications
+- Home action genome: Cooperative compositional action understanding
+- Cross-modal Knowledge Distillation for Vision-to-Sensor Action Recognition
+- Sensor-Augmented Egocentric-Video Captioning with Dynamic Modal Attention
+- Disentanglement Approach for Video Action Recognition
+- Fusion-GCN: Multimodal Action Recognition using Graph Convolutional Networks
+- Meta-learning meets the Internet of Things: Graph prototypical models for sensor-based human activity recognition
+
 
 ### 2021
 - <a name="POSE"></a> Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data [[paper](https://dl.acm.org/doi/abs/10.1145/3478096)]

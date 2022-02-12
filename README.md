@@ -84,6 +84,7 @@ Please feel free to contribute this list.
 ### 2022
 
 - Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition
+- An Unsupervised User Adaptation Model for Multiple Wearable Sensors Based Human Activity Recognition
 - What Makes Good Contrastive Learning on Small-scale Wearable-based Tasks?
 - IMU2Doppler: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data
 - A CNN-based Human Activity Recognition System Combining a Laser Feedback Interferometry Eye Movement Sensor and an IMU for Context-aware Smart Glasses

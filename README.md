@@ -88,6 +88,7 @@ Please feel free to contribute this list.
 - Machine Learning on Clinical Time Series: Classification and Representation Learning
 - Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition
 - What Makes Good Contrastive Learning on Small-scale Wearable-based Tasks?
+- Leveraging Activity Recognition to Enable Protective Behavior Detection in Continuous Data,
 - IMU2Doppler: Cross-Modal Domain Adaptation for Doppler-based Activity Recognition Using IMU Data
 - A CNN-based Human Activity Recognition System Combining a Laser Feedback Interferometry Eye Movement Sensor and an IMU for Context-aware Smart Glasses
 - Winect: 3D Human Pose Tracking for Free-form Activity Using Commodity WiFi
@@ -216,6 +217,8 @@ Please feel free to contribute this list.
 ### 2019
 
 - <a name="NDENNSBAR"></a> A Novel Distribution-Embedded Neural Network for Sensor-Based Activity Recognition (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2019/0779.pdf)][[code](https://github.com/Hangwei12358/IJCAI2019_DDNN)]
+
+- Learning Bodily and Temporal Attention in Protective Movement Behavior Detection
 
 - <a name="AttnSense"></a> **[AttnSense]** AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition (**IJCAI**) [[paper](https://www.ijcai.org/Proceedings/2019/0431.pdf)]
 

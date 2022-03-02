@@ -105,6 +105,7 @@ Please feel free to contribute this list.
 - Disentanglement Approach for Video Action Recognition
 - Fusion-GCN: Multimodal Action Recognition using Graph Convolutional Networks
 - Meta-learning meets the Internet of Things: Graph prototypical models for sensor-based human activity recognition
+- Human Activity Recognition Based on Wearable Sensor Data: A Standardization of the State-of-the-Art
 
 
 ### 2021

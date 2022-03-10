@@ -84,6 +84,7 @@ Please feel free to contribute this list.
 ### 2022
 
 - Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition
+- Weighted score fusion model heart disease prediction
 - An Unsupervised User Adaptation Model for Multiple Wearable Sensors Based Human Activity Recognition
 - Machine Learning on Clinical Time Series: Classification and Representation Learning
 - Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition

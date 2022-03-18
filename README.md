@@ -83,6 +83,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- DANA: Dimension-Adaptive Neural Architecture
 - Latent Independent Excitation for Generalizable Sensor-based Cross-Person Activity Recognition
 - The Severity Prediction of The Binary And Multi-Class Cardiovascular Disease -- A Machine Learning-Based Fusion Approach
 - An Unsupervised User Adaptation Model for Multiple Wearable Sensors Based Human Activity Recognition

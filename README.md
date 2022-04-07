@@ -83,6 +83,9 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings
+- Assessing the State of Self-Supervised Human Activity Recognition using Wearables
+- What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?
 - ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition
 - DANA: Dimension-Adaptive Neural Architecture
 - DeXAR: Deep Explainable Sensor-Based Activity Recognition in Smart-Home Environments

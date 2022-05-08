@@ -84,8 +84,41 @@ Please feel free to contribute this list.
 ### 2022
 
 - Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings
+- Deep Transfer Learning with Graph Neural Network for Sensor-Based Human Activity Recognition
+- Meta-learning meets the Internet of Things: Graph prototypical models for sensor-based human activity recognition
+- Federated Multi-Task Learning
 - Assessing the State of Self-Supervised Human Activity Recognition using Wearables
+- ROBUST AND EFFICIENT UNCERTAINTY AWARE BIOSIGNAL CLASSIFICATION VIA EARLY EXIT ENSEMBLES
+- Machine learning detects altered spatial navigation features in outdoor behaviour of Alzheimer’s disease patients
+- Evaluating Contrastive Learning on Wearable Timeseries for Downstream Clinical Outcomes
+- Segmentation-free Heart Pathology Detection Using Deep Learning
+- Anticipatory Detection of Compulsive Body-focused Repetitive Behaviors with Wearables
+- Assessing the State of Self-Supervised Human Activity Recognition using Wearables
+- Method and system for automatic extraction of virtual on-body inertial measurement units
+- Enhancing the Security & Privacy of Wearable Brain-Computer Interfaces
 - What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?
+- Detecting Smartwatch-Based Behavior Change in Response to a Multi-Domain Brain Health Intervention
+- ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition
+- Multi-scale Deep Feature Learning for Human Activity Recognition Using Wearable Sensors
+- Improving Wearable-Based Activity Recognition Using Image Representations
+- Multi-sensor information fusion based on machine learning for real applications in human activity recognition: State-of-the-art and research challenges
+- A recurrent neural network architecture to model physical activity energy expenditure in older people
+- Application of artificial intelligence in wearable devices: Opportunities and challenges
+- A Close Look into Human Activity Recognition Models using Deep Learning
+- YONO: Modeling Multiple Heterogeneous Neural Networks on Microcontrollers
+- CogAx: Early Assessment of Cognitive and Functional Impairment from Accelerometry
+- Deep Temporal Conv-LSTM for Activity Recognition
+- Combined deep centralized coordinate learning and hybrid loss for human activity recognition
+- Real-time human activity recognition using conditionally parametrized convolutions on mobile and wearable devices
+- Proposing a Fuzzy Soft‐max‐based classifier in a hybrid deep learning architecture for human activity recognition
+- HAR-GCNN: Deep Graph CNNs for Human Activity Recognition From Highly Unlabeled Mobile Sensor Data
+- Sensor-based human activity recognition using fuzzified deep CNN architecture with λmax method
+- WearRF-CLA: Continuous Location Authentication with Wrist Wearables and UHF RFID
+- Non-Bayesian Out-of-Distribution Detection Applied to CNN Architectures for Human Activity Recognition
+- Improving the Performance of Open-Set Classification in Human Activity Recognition by Applying a Residual Neural Network Architecture
+- A Review on Topological Data Analysis in Human Activity Recognition
+- UBIWEAR: An End-To-End Framework for Intelligent Physical Activity Prediction With Machine and Deep Learning
+- High-Precision and Personalized Wearable Sensing Systems for Healthcare Applications
 - ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition
 - DANA: Dimension-Adaptive Neural Architecture
 - DeXAR: Deep Explainable Sensor-Based Activity Recognition in Smart-Home Environments

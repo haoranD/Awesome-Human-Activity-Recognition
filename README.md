@@ -87,6 +87,7 @@ Please feel free to contribute this list.
 - Deep Transfer Learning with Graph Neural Network for Sensor-Based Human Activity Recognition
 - Meta-learning meets the Internet of Things: Graph prototypical models for sensor-based human activity recognition
 - Federated Multi-Task Learning
+- Hierarchical Self Attention Based Autoencoder for Open-Set Human Activity Recognition
 - Assessing the State of Self-Supervised Human Activity Recognition using Wearables
 - ROBUST AND EFFICIENT UNCERTAINTY AWARE BIOSIGNAL CLASSIFICATION VIA EARLY EXIT ENSEMBLES
 - Machine learning detects altered spatial navigation features in outdoor behaviour of Alzheimer’s disease patients
@@ -108,6 +109,7 @@ Please feel free to contribute this list.
 - YONO: Modeling Multiple Heterogeneous Neural Networks on Microcontrollers
 - CogAx: Early Assessment of Cognitive and Functional Impairment from Accelerometry
 - Deep Temporal Conv-LSTM for Activity Recognition
+- Human Activity Recognition from Wearable Sensor Data Using Self-Attention
 - Combined deep centralized coordinate learning and hybrid loss for human activity recognition
 - Real-time human activity recognition using conditionally parametrized convolutions on mobile and wearable devices
 - Proposing a Fuzzy Soft‐max‐based classifier in a hybrid deep learning architecture for human activity recognition

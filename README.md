@@ -83,6 +83,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- LiteHAR: LIGHTWEIGHT HUMAN ACTIVITY RECOGNITION FROM WIFI SIGNALS WITH RANDOM CONVOLUTION KERNELS
 - Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings
 - Deep Transfer Learning with Graph Neural Network for Sensor-Based Human Activity Recognition
 - Meta-learning meets the Internet of Things: Graph prototypical models for sensor-based human activity recognition

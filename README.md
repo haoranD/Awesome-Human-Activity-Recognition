@@ -88,6 +88,7 @@ Please feel free to contribute this list.
 - Deep Transfer Learning with Graph Neural Network for Sensor-Based Human Activity Recognition
 - Meta-learning meets the Internet of Things: Graph prototypical models for sensor-based human activity recognition
 - Federated Multi-Task Learning
+- Unsupervised Human Activity Recognition Using the Clustering Approach: A Review
 - Hierarchical Self Attention Based Autoencoder for Open-Set Human Activity Recognition
 - Assessing the State of Self-Supervised Human Activity Recognition using Wearables
 - ROBUST AND EFFICIENT UNCERTAINTY AWARE BIOSIGNAL CLASSIFICATION VIA EARLY EXIT ENSEMBLES

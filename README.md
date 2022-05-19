@@ -19,9 +19,7 @@ Many thanks to the useful publications and repos: [Jingdong Wang](https://github
 
 Please feel free to contribute this list.
 
-## Misc
-
-### Events and Conferences
+## Conferences and Journals
 - IJCAI, ACM MultiMedia, AAAI, KDD, ICDM, TKDE, TIP, TNNLS, TPAMI, TMM, Pattern Recognition, AI, Nature Communication, ICPR, Sensors, Ubicomp(IMWUT Journal)
 
 ## Datasets

@@ -22,7 +22,7 @@ Please feel free to contribute this list.
 ## Misc
 
 ### Events and Conferences
-- IMWUT,UbiComp, IJCAI, AAAI, TIP, TNNLS, TPAMI, TMM, Pattern Recognition, AI, Nature Communication
+- IJCAI, AAAI, TIP, TNNLS, TPAMI, TMM, Pattern Recognition, AI, Nature Communication
 
 ## Datasets
 

@@ -81,7 +81,12 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- Non-Bayesian Out-of-Distribution Detection Applied to CNN Architectures for Human Activity Recognition
+- Resource-Efficient Continual Learning for Sensor-Based Human Activity Recognition
+- Beyond the Gates of Euclidean Space: Temporal-Discrimination-Fusions and Attention-based Graph Neural Network for Human Activity Recognition
 - LiteHAR: LIGHTWEIGHT HUMAN ACTIVITY RECOGNITION FROM WIFI SIGNALS WITH RANDOM CONVOLUTION KERNELS
+- A Review on Topological Data Analysis in Human Activity Recognition
+- Deep CNN-LSTM with Self-Attention Model for Human Activity Recognition using Wearable Sensor
 - Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddings
 - Deep Transfer Learning with Graph Neural Network for Sensor-Based Human Activity Recognition
 - Meta-learning meets the Internet of Things: Graph prototypical models for sensor-based human activity recognition

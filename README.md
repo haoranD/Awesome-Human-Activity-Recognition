@@ -79,8 +79,11 @@ Please feel free to contribute this list.
 
 - <a name="Overview"></a> Deep Learning for Sensor-based Human Activity Recognition: Overview, Challenges, and Opportunities (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3447744)]
 
+- <a name="Overview"></a> Human Action Recognition from Various Data Modalities: A Review (**IEEE TPAMI ** top AI Journal) [[paper](https://dl.acm.org/doi/abs/10.1145/3447744)]
+
 ### 2022
 
+- Human Action Recognition from Various Data Modalities: A Review (IEEE TPAMI (top AI Journal))
 - Non-Bayesian Out-of-Distribution Detection Applied to CNN Architectures for Human Activity Recognition
 - Resource-Efficient Continual Learning for Sensor-Based Human Activity Recognition
 - Beyond the Gates of Euclidean Space: Temporal-Discrimination-Fusions and Attention-based Graph Neural Network for Human Activity Recognition

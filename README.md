@@ -84,6 +84,14 @@ Please feel free to contribute this list.
 ### 2022
 
 - Human Action Recognition from Various Data Modalities: A Review (IEEE TPAMI 2022 (top AI Journal))
+- Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition
+- Are You Left Out?: An Efficient and Fair Federated Learning for Personalized Profiles on Wearable Devices of Inferior Networking Conditions
+- Leveraging Sound and Wrist Motion to Detect Activities of Daily Living with Commodity Smartwatches
+- I Want to Know Your Hand: Authentication on Commodity Mobile Phones Based on Your Hand's Vibrations
+- CSI:DeSpy: Enabling Effortless Spy Camera Detection via Passive Sensing of User Activities and Bitrate Variations
+- Acceleration-based Activity Recognition of Repetitive Works with Lightweight Ordered-work Segmentation Network
+- IF-ConvTransformer: A Framework for Human Activity Recognition Using IMU Fusion and ConvTransformer
+- Quali-Mat: Evaluating the Quality of Execution in Body-Weight Exercises with a Pressure Sensitive Sports Mat
 - Non-Bayesian Out-of-Distribution Detection Applied to CNN Architectures for Human Activity Recognition
 - Resource-Efficient Continual Learning for Sensor-Based Human Activity Recognition
 - Beyond the Gates of Euclidean Space: Temporal-Discrimination-Fusions and Attention-based Graph Neural Network for Human Activity Recognition

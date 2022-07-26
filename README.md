@@ -24,6 +24,7 @@ Please feel free to contribute this list.
 
 ## Datasets
 
+- Capture-24 [[**link**](https://github.com/OxWearables/capture24)]
 - mHealth [[**link**](http://archive.ics.uci.edu/ml/datasets/mhealth+dataset)]
 - Opportunity [[**link**](https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition#:~:text=Data%20Set%20Information%3A-,The%20OPPORTUNITY%20Dataset%20for%20Human%20Activity%20Recognition%20from%20Wearable%2C%20Object,%2C%20feature%20extraction%2C%20etc)]
 - PAMAP2 [[**link**](https://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring)]
@@ -39,6 +40,7 @@ Please feel free to contribute this list.
 - Salad 50 [[**link**](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/)]
 - DIP [[**link**](https://dip.is.tuebingen.mpg.de/)]
 - LARa [[**link**](https://www.mdpi.com/1424-8220/20/15/4083)]
+- Human Inertial Pose [[**link**](https://github.com/ManuelPalermo/HumanInertialPose)]
 
 ## Tools
 - SimTK [[**link**](https://simtk.org/projects/opensim)]

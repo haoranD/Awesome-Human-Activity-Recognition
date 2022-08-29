@@ -85,6 +85,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?
 - ClusterFL: a similarity-aware federated learning system for human activity recognition
 - Human Action Recognition from Various Data Modalities: A Review (IEEE TPAMI 2022 (top AI Journal))
 - Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition
@@ -116,7 +117,6 @@ Please feel free to contribute this list.
 - Assessing the State of Self-Supervised Human Activity Recognition using Wearables
 - Method and system for automatic extraction of virtual on-body inertial measurement units
 - Enhancing the Security & Privacy of Wearable Brain-Computer Interfaces
-- What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?
 - Detecting Smartwatch-Based Behavior Change in Response to a Multi-Domain Brain Health Intervention
 - ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition
 - Multi-scale Deep Feature Learning for Human Activity Recognition Using Wearable Sensors

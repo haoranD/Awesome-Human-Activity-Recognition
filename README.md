@@ -85,6 +85,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- Cosmo: Contrastive Fusion Learning with Small Data for Multimodal Human Activity Recognition
 - What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?
 - ClusterFL: a similarity-aware federated learning system for human activity recognition
 - Human Action Recognition from Various Data Modalities: A Review (IEEE TPAMI 2022 (top AI Journal))

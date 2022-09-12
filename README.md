@@ -85,6 +85,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- Towards a Dynamic Inter-Sensor Correlations Learning Framework for Multi-Sensor-Based Wearable Human Activity Recognition [[link](https://github.com/wdkhuans/DynamicWHAR)]
 - Cosmo: Contrastive Fusion Learning with Small Data for Multimodal Human Activity Recognition
 - What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?
 - ClusterFL: a similarity-aware federated learning system for human activity recognition

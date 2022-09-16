@@ -85,6 +85,12 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- Predicting Performance Improvement of Human Activity Recognition Model by Additional Data Collection
+- SAMoSA: Sensing Activities with Motion and Subsampled Audio
+- Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets
+- Towards a Dynamic Inter-Sensor Correlations Learning Framework for Multi-Sensor-Based Wearable Human Activity Recognition
+- Augmented Adversarial Learning for Human Activity Recognition with Partial Sensor Sets
+- Bootstrapping Human Activity Recognition Systems for Smart Homes from Scratch
 - Towards a Dynamic Inter-Sensor Correlations Learning Framework for Multi-Sensor-Based Wearable Human Activity Recognition [[link](https://github.com/wdkhuans/DynamicWHAR)]
 - Cosmo: Contrastive Fusion Learning with Small Data for Multimodal Human Activity Recognition
 - What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?

@@ -85,6 +85,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- A hybrid accuracy-and energy-aware human activity recognition model in IoT environment
 - Predicting Performance Improvement of Human Activity Recognition Model by Additional Data Collection
 - SAMoSA: Sensing Activities with Motion and Subsampled Audio
 - Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets

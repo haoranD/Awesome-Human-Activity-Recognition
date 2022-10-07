@@ -85,6 +85,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- Application-Driven AI Paradigm for Human Action Recognition
 - A hybrid accuracy-and energy-aware human activity recognition model in IoT environment
 - Predicting Performance Improvement of Human Activity Recognition Model by Additional Data Collection
 - SAMoSA: Sensing Activities with Motion and Subsampled Audio

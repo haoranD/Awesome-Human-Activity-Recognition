@@ -85,6 +85,9 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments
+- Self-supervised transfer learning of physiological representations from free-living wearable data
+- Learning Generalizable Physiological Representations from Large-scale Wearable Data
 - Application-Driven AI Paradigm for Human Action Recognition
 - A hybrid accuracy-and energy-aware human activity recognition model in IoT environment
 - Predicting Performance Improvement of Human Activity Recognition Model by Additional Data Collection

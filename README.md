@@ -47,6 +47,9 @@ Please feel free to contribute this list.
 - SimTK [[**link**](https://simtk.org/projects/opensim)]
 - OpenSense [[**link**](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data)]
 
+## Other related tasks
+- EEG analysis/prediction/modelling: https://github.com/meagmohit/EEG-Datasets
+
 ## Potential Research Direction
 * Large-Scale/Diverse Dataset Research
 * Multi-Modality: sensor-vision, sensor-skeleton, sensor-3DPose, Sensor-Motion

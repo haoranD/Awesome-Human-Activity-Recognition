@@ -89,6 +89,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- FLAME: Federated Learning across Multi-device Environments
 - Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments
 - Self-supervised transfer learning of physiological representations from free-living wearable data
 - Learning Generalizable Physiological Representations from Large-scale Wearable Data

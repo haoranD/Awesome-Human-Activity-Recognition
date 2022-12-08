@@ -89,6 +89,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- Adaptive Memory Networks with Self-supervised Learning for Unsupervised Anomaly Detection
 - MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series
 - FLAME: Federated Learning across Multi-device Environments
 - Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments

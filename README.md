@@ -90,6 +90,7 @@ Please feel free to contribute this list.
 ### 2022
 
 - MaeFE: Masked Autoencoders Family of Electrocardiogram for Self-supervised Pre-training and Transfer Learning
+- A Simple Self-Supervised IMU Denoising Method For Inertial Aided Navigation
 - Adaptive Memory Networks with Self-supervised Learning for Unsupervised Anomaly Detection
 - MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series
 - FLAME: Federated Learning across Multi-device Environments

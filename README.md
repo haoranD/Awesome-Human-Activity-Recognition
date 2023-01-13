@@ -87,8 +87,13 @@ Please feel free to contribute this list.
 
 - <a name="Md"></a> Human Action Recognition from Various Data Modalities: A Review (**IEEE TPAMI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)] top AI Journal
 
+### 2023
+
+- 
+
 ### 2022
 
+- Self-Supervised Contrastive Pre-Training for Time Series via Time-Frequency Consistency
 - MaeFE: Masked Autoencoders Family of Electrocardiogram for Self-supervised Pre-training and Transfer Learning
 - A Simple Self-Supervised IMU Denoising Method For Inertial Aided Navigation
 - Adaptive Memory Networks with Self-supervised Learning for Unsupervised Anomaly Detection

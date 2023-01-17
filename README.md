@@ -89,7 +89,14 @@ Please feel free to contribute this list.
 
 ### 2023
 
-- 
+- PrISM-Tracker: A Framework for Multimodal Procedure Tracking Using Wearable Sensors and State Transition Information with User-Driven Handling of Errors and Uncertainty
+- Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
+- GLOBEM: Cross-Dataset Generalization of Longitudinal Human Behavior Modeling
+- TransFloor: Transparent Floor Localization for Crowdsourcing Instant Delivery
+- Understanding the Mechanism of Through-Wall Wireless Sensing: A Model-based Perspective
+- Unveiling Causal Attention in Dogs' Eyes with Smart Eyewear
+- MHCCL: Masked Hierarchical Cluster-wise Contrastive Learning for Multivariate Time Series
+
 
 ### 2022
 

@@ -91,6 +91,13 @@ Please feel free to contribute this list.
 
 ### 2023
 
+- Real-time Context-Aware Multimodal Network for Activity and Activity-Stage Recognition from Team Communication in Dynamic Clinical Settings
+- X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model
+- Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition
+- AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments
+- Narrative-Based Visual Feedback to Encourage Sustained Physical Activity: A Field Trial of the WhoIsZuki Mobile Health Platform
+- Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud
+- RF-CM: Cross-Modal Framework for RF-enabled Few-Shot Human Activity Recognition
 - PrISM-Tracker: A Framework for Multimodal Procedure Tracking Using Wearable Sensors and State Transition Information with User-Driven Handling of Errors and Uncertainty
 - Self-supervised Learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
 - GLOBEM: Cross-Dataset Generalization of Longitudinal Human Behavior Modeling

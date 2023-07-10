@@ -90,7 +90,7 @@ Please feel free to contribute this list.
 - <a name="Md"></a> Human Action Recognition from Various Data Modalities: A Review (**IEEE TPAMI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)] top AI Journal
 
 ### 2023
-
+- Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[link](https://arxiv.org/abs/2307.03638)]
 - Real-time Context-Aware Multimodal Network for Activity and Activity-Stage Recognition from Team Communication in Dynamic Clinical Settings
 - X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model
 - Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition
@@ -133,6 +133,7 @@ Please feel free to contribute this list.
 - Human Action Recognition from Various Data Modalities: A Review (IEEE TPAMI 2022 (top AI Journal))
 - Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition
 - Are You Left Out?: An Efficient and Fair Federated Learning for Personalized Profiles on Wearable Devices of Inferior Networking Conditions
+- Progressive Cross-modal Knowledge Distillation for Human Action Recognition [[link](https://arxiv.org/abs/2208.08090)]
 - Leveraging Sound and Wrist Motion to Detect Activities of Daily Living with Commodity Smartwatches
 - I Want to Know Your Hand: Authentication on Commodity Mobile Phones Based on Your Hand's Vibrations
 - CSI:DeSpy: Enabling Effortless Spy Camera Detection via Passive Sensing of User Activities and Bitrate Variations

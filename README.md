@@ -91,6 +91,7 @@ Please feel free to contribute this list.
 
 ### 2023
 
+- IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text
 - Real-time Context-Aware Multimodal Network for Activity and Activity-Stage Recognition from Team Communication in Dynamic Clinical Settings
 - X-CHAR: A Concept-based Explainable Complex Human Activity Recognition Model
 - Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition

@@ -90,6 +90,7 @@ Please feel free to contribute this list.
 - <a name="Md"></a> Human Action Recognition from Various Data Modalities: A Review (**IEEE TPAMI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)] top AI Journal
 
 ### 2023
+- SAMoSA: Sensing Activities with Motion and Subsampled Audio [[link](https://github.com/cmusmashlab/SAMoSA)]
 - Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[link](https://arxiv.org/abs/2307.03638)]
 - IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text
 - Real-time Context-Aware Multimodal Network for Activity and Activity-Stage Recognition from Team Communication in Dynamic Clinical Settings

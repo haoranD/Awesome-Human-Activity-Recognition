@@ -90,6 +90,7 @@ Please feel free to contribute this list.
 - <a name="Md"></a> Human Action Recognition from Various Data Modalities: A Review (**IEEE TPAMI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)] top AI Journal
 
 ### 2023
+- PhysiQ: Off-site Quality Assessment of Exercise in Physical Therapy [[link](https://dl.acm.org/doi/abs/10.1145/3570349)]
 - SAMoSA: Sensing Activities with Motion and Subsampled Audio [[link](https://github.com/cmusmashlab/SAMoSA)]
 - Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[link](https://arxiv.org/abs/2307.03638)]
 - IMU2CLIP: Multimodal Contrastive Learning for IMU Motion Sensors from Egocentric Videos and Text

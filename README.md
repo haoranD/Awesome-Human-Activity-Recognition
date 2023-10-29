@@ -90,6 +90,13 @@ Please feel free to contribute this list.
 - <a name="Md"></a> Human Action Recognition from Various Data Modalities: A Review (**IEEE TPAMI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)] top AI Journal
 
 ### 2023
+
+- Integrating Gaze and Mouse Via Joint Cross-Attention Fusion Net for Students' Activity Recognition in E-learning
+- VAX: Using Existing Video and Audio-based Activity Recognition Models to Bootstrap Privacy-Sensitive Sensors
+- LAUREATE: A Dataset for Supporting Research in Affective Computing and Human Memory Augmentation
+- MMTSA: Multi-Modal Temporal Segment Attention Network for Efficient Human Activity Recognition
+- HMGAN: A Hierarchical Multi-Modal Generative Adversarial Network Model for Wearable Human Activity Recognition
+- TAO: Context Detection from Daily Activity Patterns Using Temporal Analysis and Ontology
 - HAKE: Human Activity Knowledge Engine [[link](https://github.com/DirtyHarryLYL/HAKE)]
 - PhysiQ: Off-site Quality Assessment of Exercise in Physical Therapy [[link](https://dl.acm.org/doi/abs/10.1145/3570349)]
 - SAMoSA: Sensing Activities with Motion and Subsampled Audio [[link](https://github.com/cmusmashlab/SAMoSA)]

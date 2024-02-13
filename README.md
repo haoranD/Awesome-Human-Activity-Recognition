@@ -89,6 +89,18 @@ Please feel free to contribute this list.
 
 - <a name="Md"></a> Human Action Recognition from Various Data Modalities: A Review (**IEEE TPAMI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)] top AI Journal
 
+### 2024
+
+- Semantic Loss: A New Neuro-Symbolic Approach for Context-Aware Human Activity Recognition
+- CAvatar: Real-time Human Activity Mesh Reconstruction via Tactile Carpets
+- Deep Heterogeneous Contrastive Hyper-Graph Learning for In-the-Wild Context-Aware Human Activity Recognition
+- SF-Adapter: Computational-Efficient Source-Free Domain Adaptation for Human Activity Recognition
+- Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition
+- Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition
+- TextureSight: Texture Detection for Routine Activity Awareness with Wearable Laser Speckle Imaging
+- TS2ACT: Few-Shot Human Activity Sensing with Cross-Modal Co-Learning
+- 
+
 ### 2023
 
 - Integrating Gaze and Mouse Via Joint Cross-Attention Fusion Net for Students' Activity Recognition in E-learning

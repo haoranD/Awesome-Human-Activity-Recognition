@@ -79,6 +79,8 @@ Please feel free to contribute this list.
 
 ### Surveys & Overview
 
+- Body-Area Capacitive or Electric Field Sensing for Human Activity Recognition and Human-Computer Interaction: A Comprehensive Survey
+
 - <a name="DLHAR"></a> A Survey on Deep Learning for Human Activity Recognition (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3472290)]
 
 - <a name="ML4SENSORHAR"></a> Applying Machine Learning for Sensor Data Analysis in Interactive Systems: Common Pitfalls of Pragmatic Use and Ways to Avoid Them (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3459666)]
@@ -91,6 +93,13 @@ Please feel free to contribute this list.
 
 ### 2024
 
+- HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM
+- HyperHAR: Inter-sensing Device Bilateral Correlations and Hyper-correlations Learning Approach for Wearable Sensing Device Based Human Activity Recognition
+- Lateralization Effects in Electrodermal Activity Data Collected Using Wearable Devices
+- Body-Area Capacitive or Electric Field Sensing for Human Activity Recognition and Human-Computer Interaction: A Comprehensive Survey
+- exHAR: An Interface for Helping Non-Experts Develop and Debug Knowledge-based Human Activity Recognition Systems
+- Kirigami: Lightweight Speech Filtering for Privacy-Preserving Activity Recognition using Audio
+- Co-Designing Sensory Feedback for Wearables to Support Physical Activity through Body Sensations
 - Semantic Loss: A New Neuro-Symbolic Approach for Context-Aware Human Activity Recognition
 - CAvatar: Real-time Human Activity Mesh Reconstruction via Tactile Carpets
 - Deep Heterogeneous Contrastive Hyper-Graph Learning for In-the-Wild Context-Aware Human Activity Recognition

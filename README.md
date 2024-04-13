@@ -93,6 +93,7 @@ Please feel free to contribute this list.
 
 ### 2024
 
+- Self-supervised learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
 - HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM
 - HyperHAR: Inter-sensing Device Bilateral Correlations and Hyper-correlations Learning Approach for Wearable Sensing Device Based Human Activity Recognition
 - Lateralization Effects in Electrodermal Activity Data Collected Using Wearable Devices
@@ -112,6 +113,7 @@ Please feel free to contribute this list.
 
 ### 2023
 
+- Integrating Gaze and Mouse Via Joint Cross-Attention Fusion Net for Students' Activity Recognition in E-learning
 - Integrating Gaze and Mouse Via Joint Cross-Attention Fusion Net for Students' Activity Recognition in E-learning
 - VAX: Using Existing Video and Audio-based Activity Recognition Models to Bootstrap Privacy-Sensitive Sensors
 - LAUREATE: A Dataset for Supporting Research in Affective Computing and Human Memory Augmentation

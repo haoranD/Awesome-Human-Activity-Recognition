@@ -94,6 +94,7 @@ Please feel free to contribute this list.
 ### 2024
 
 - Self-supervised learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
+- IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition
 - HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM
 - HyperHAR: Inter-sensing Device Bilateral Correlations and Hyper-correlations Learning Approach for Wearable Sensing Device Based Human Activity Recognition
 - Lateralization Effects in Electrodermal Activity Data Collected Using Wearable Devices

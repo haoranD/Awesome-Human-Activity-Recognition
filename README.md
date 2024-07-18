@@ -93,6 +93,11 @@ Please feel free to contribute this list.
 
 ### 2024
 
+- EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection
+- AutoAugHAR: Automated Data Augmentation for Sensor-based Human Activity Recognition
+- CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining
+- Changing Your Tune: Lessons for Using Music to Encourage Physical Activity
+- The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables
 - Self-supervised learning for Human Activity Recognition Using 700,000 Person-days of Wearable Data
 - IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition
 - HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM

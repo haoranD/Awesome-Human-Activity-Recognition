@@ -44,6 +44,8 @@ Please feel free to contribute this list.
 - DIP [[**link**](https://dip.is.tuebingen.mpg.de/)]
 - LARa [[**link**](https://www.mdpi.com/1424-8220/20/15/4083)]
 - Human Inertial Pose [[**link**](https://github.com/ManuelPalermo/HumanInertialPose)]
+- Kinetics-400 dataset: https://github.com/cvdfoundation/kinetics-dataset
+- UCF-101 dataset: https://paperswithcode.com/dataset/ucf101
 
 ## Tools
 - SimTK [[**link**](https://simtk.org/projects/opensim)]

@@ -95,6 +95,8 @@ Please feel free to contribute this list.
 
 ### 2024
 
+- IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition
+- Collecting Self-reported Physical Activity and Posture Data Using Audio-based Ecological Momentary Assessment
 - EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection
 - AutoAugHAR: Automated Data Augmentation for Sensor-based Human Activity Recognition
 - CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining
